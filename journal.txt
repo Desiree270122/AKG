@@ -1,0 +1,457 @@
+
+2024-12-02 15:43:39 - Exécution de la tâche: Afficher le Journal Récapitulatif
+Affichage du journal récapitulatif des activités et ressources.
+
+2024-12-02 15:43:55 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+Visualisation des communautés avec un graphe circulaire:
+dbcourse-b63a9944-19f6-4f41-bcbd-9333ede86272, CSC 1002, DataBase Course, This course introduces the database concept to level 1 student, objective-ddd7e420-9347-4a53-8f06-d30d3efd8398, classroom-b2c326d0-8551-41c4-aee5-11365e117523, lecturing-9246b9e2-d557-4869-885a-c541257280eb, laptop-a0268cf3-8b2b-4f83-a467-eefe3a392639, digital-9840998a-2a10-46c4-a1d8-b7262bb88c76, teacher-09c4175e-f119-4d66-ac53-920a5c9dc796 (10.3%): 10.3%
+Activity, pmcourse-adee0f07-9e90-412b-95d4-b45d7a7476bb, PM 1001, Project Management Course, This course introduces project management concepts to level 1 student, 8AM-10AM-b139b467-7fbf-4298-9338-fa372b608e5e, objective-0b6e8fa9-d03d-4636-ab9c-b34578b4ea45, classroom-3414ff41-3e7a-44de-a679-baac1ab873c2, lecturing-12b5c207-f470-4bf3-bb3d-e6b31c954954, book-5afdf1f7-b15f-450b-be5f-e6e5d0505cb5 (10.3%): 10.3%
+uicourse-eaf2d283-4eb8-4024-a2c5-539984984fdd, CSC 1006, User Interface Course, This course introduces the user interface design principles to level 1 student, 10AM-12AM-6ab82d7d-72dc-40f2-a209-8bc6b4bb04e7, objective-9a59e20a-60f0-4798-8895-50f6b79621c5, computerroom-9cd6c49c-e52f-48ef-9d23-d868af4802c4, classroom-9b1749fc-8ce7-42ce-89d6-4e7ff8b826c7, lecturing-5923c0c5-fe15-4cf9-8dc1-e3f5e73ba02a, bsc-a00ac66e-e5df-4a66-9691-42d318700616, digital-2d8642f5-f270-4d47-9d3c-8132f4fa2668, teacher-39c687e2-5671-4ade-90b1-8f1c45096ea9 (12.4%): 12.4%
+dbtutorial-78aca3f8-53fd-4f47-9406-414b493efe19, book-b4d784d0-8be6-473f-a4cc-3c5ff8a80b6d, CSC 1022, DataBase Tutorial, 10AM-f5ee7bc0-fb61-4d4e-9a32-565a5a7df03a, This tutorial answers database question to level 1 student, objective-59c2099d-746e-4872-bbc1-ea0891430f47, computerroom-4ecbe47c-8f8e-4835-93ac-16d2392e30a2, classroom-c1a5b39b-992c-49fb-9c7e-a1ffaa92e884, tutoring-75f9b050-39ca-4751-83d0-1298ec31bbdf, teacher-04ccbc2a-0abe-4d78-90a4-514e8adfda7a (11.3%): 11.3%
+8AM-10AM-1470781d-1128-4f43-ab61-4088953f071a, bsc-09c739e7-2a77-4b4c-9197-cdba96c340dd, pycourse-3f993bf5-1c2f-4f58-b85a-7b6b92bcf64b, CSC 1001, Python Course, This course introduces the python programming to level 1 student, 8AM-10AM-0ea7a574-e6be-4dc7-abe1-85a6b8ce2e3d, objective-969f073e-1e01-4ad0-a0f0-fb806ba5a50e, pypractical-f18f0361-3f12-4b3d-9459-ce2a019b4668, lecturing-5737c363-39a6-405a-87d1-9f15bee9e464, laptop-bf775e20-71f6-4587-a518-2c0e73fa7470, teacher-45b1d68b-d33c-4eaf-93af-7c44f8ef3fa8, CSC 1011, Python Practical, This course is for monitoring python programming practicals for level 1 student, rule-cdc19603-45e5-4c06-8d5a-47624147f67e, practical-fa779b89-5ec8-48f1-b5c3-bda3968382ca, digital-8df1b194-5e61-489b-ab31-366843c55775 (18.6%): 18.6%
+120, secourse-511f491d-ea2b-428f-900e-604ea778dab5, CSC 1003, Software Engineering Course, This course introduces software engineering to level 1 student, 12AM-6ec5a9a1-54b9-4310-96f4-9ecbdbf8344f, classroom-25eafa60-5f87-4e1f-9609-93bcdcfbb0c9, lecturing-14868c21-cca2-436b-9ccc-23c411ab22ca, digital-ab422ef5-9bd5-451f-8ab7-9274ffdf5739, teacher-b4e46cbe-e682-4132-a2d7-ca92e404c216 (10.3%): 10.3%
+computerroom-5a2454c8-c664-401c-86b7-425e75dddc39, bsc-410688e8-e5d3-4e9c-9ca4-c28bf92827af, objective-f4de69e1-e2ba-41a6-a268-803293e73080, sepractical-88ca540f-fd64-4a3c-92fd-590a12f1f46b, CSC 1013, Software Engineering Practical, This course monitor software engineering practical questions for level 1 student, 10AM-12AM-f4e589a5-aac9-42b7-b498-706732141ca1, seproject-d3e90a3c-f550-45eb-b00e-59a3c6120318, projector-6579cf57-4d1d-498d-bd51-bbc0caa7105b, practical-4f989887-eb53-431f-b188-c9662a042f51, Software Engineering Project, This course is for follow up of software engineering projects of level 1 student, CSC 1005, 08AM-10AM-35e7d9ed-4694-48e0-a6b6-394bd4155a13, objective-284ef78c-99f5-45f0-935a-553678664616, supervision-b45158d0-f812-4ee9-976b-809df57824f2, teacher-a90e1d36-c79f-47f1-a2b5-c805266e2bcc (18.6%): 18.6%
+tutorialroom-351e99f6-c93b-4377-b987-511652d2eefe, setutorial-adbef907-11e0-40c1-8dd2-37eb02899ea9, CSC 1023, Software Engineering Tutorial, This tutorial answers level 1 student questions on software engineering, 10AM-0fbdca75-5c06-4a88-9181-ee1a035a7fec, tutoring-bb6311ad-c7a3-412c-84f1-4f5cf76b4a75, teacher-f6f76647-ad40-4a4e-93c0-6840ccec87d3 (8.2%): 8.2%
+
+
+2024-12-02 15:43:32 - Exécution de la tâche: Visualiser le Graphe
+Visualisation du graphe des connaissances.
+
+2024-12-02 15:51:04 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+Visualisation des communautés avec un graphe circulaire:
+dbcourse-b63a9944-19f6-4f41-bcbd-9333ede86272, CSC 1002, DataBase Course, This course introduces the database concept to level 1 student, 8AM-10AM-1470781d-1128-4f43-ab61-4088953f071a, objective-ddd7e420-9347-4a53-8f06-d30d3efd8398, classroom-b2c326d0-8551-41c4-aee5-11365e117523, lecturing-9246b9e2-d557-4869-885a-c541257280eb, laptop-a0268cf3-8b2b-4f83-a467-eefe3a392639, digital-9840998a-2a10-46c4-a1d8-b7262bb88c76, teacher-09c4175e-f119-4d66-ac53-920a5c9dc796 (11.3%): 11.3%
+Activity, pmcourse-adee0f07-9e90-412b-95d4-b45d7a7476bb, PM 1001, Project Management Course, This course introduces project management concepts to level 1 student, 8AM-10AM-b139b467-7fbf-4298-9338-fa372b608e5e, objective-0b6e8fa9-d03d-4636-ab9c-b34578b4ea45, classroom-3414ff41-3e7a-44de-a679-baac1ab873c2, lecturing-12b5c207-f470-4bf3-bb3d-e6b31c954954, book-5afdf1f7-b15f-450b-be5f-e6e5d0505cb5 (10.3%): 10.3%
+dbtutorial-78aca3f8-53fd-4f47-9406-414b493efe19, book-b4d784d0-8be6-473f-a4cc-3c5ff8a80b6d, CSC 1022, DataBase Tutorial, 10AM-f5ee7bc0-fb61-4d4e-9a32-565a5a7df03a, This tutorial answers database question to level 1 student, objective-59c2099d-746e-4872-bbc1-ea0891430f47, computerroom-4ecbe47c-8f8e-4835-93ac-16d2392e30a2, classroom-c1a5b39b-992c-49fb-9c7e-a1ffaa92e884, tutoring-75f9b050-39ca-4751-83d0-1298ec31bbdf, teacher-04ccbc2a-0abe-4d78-90a4-514e8adfda7a (11.3%): 11.3%
+bsc-09c739e7-2a77-4b4c-9197-cdba96c340dd, pycourse-3f993bf5-1c2f-4f58-b85a-7b6b92bcf64b, CSC 1001, Python Course, This course introduces the python programming to level 1 student, 8AM-10AM-0ea7a574-e6be-4dc7-abe1-85a6b8ce2e3d, objective-969f073e-1e01-4ad0-a0f0-fb806ba5a50e, tutorialroom-351e99f6-c93b-4377-b987-511652d2eefe, pypractical-f18f0361-3f12-4b3d-9459-ce2a019b4668, lecturing-5737c363-39a6-405a-87d1-9f15bee9e464, laptop-bf775e20-71f6-4587-a518-2c0e73fa7470, teacher-45b1d68b-d33c-4eaf-93af-7c44f8ef3fa8, CSC 1011, Python Practical, This course is for monitoring python programming practicals for level 1 student, practical-fa779b89-5ec8-48f1-b5c3-bda3968382ca, digital-8df1b194-5e61-489b-ab31-366843c55775 (17.5%): 17.5%
+uicourse-eaf2d283-4eb8-4024-a2c5-539984984fdd, CSC 1006, User Interface Course, This course introduces the user interface design principles to level 1 student, 10AM-12AM-6ab82d7d-72dc-40f2-a209-8bc6b4bb04e7, objective-9a59e20a-60f0-4798-8895-50f6b79621c5, computerroom-9cd6c49c-e52f-48ef-9d23-d868af4802c4, classroom-9b1749fc-8ce7-42ce-89d6-4e7ff8b826c7, lecturing-5923c0c5-fe15-4cf9-8dc1-e3f5e73ba02a, bsc-a00ac66e-e5df-4a66-9691-42d318700616, digital-2d8642f5-f270-4d47-9d3c-8132f4fa2668, teacher-39c687e2-5671-4ade-90b1-8f1c45096ea9 (12.4%): 12.4%
+120, secourse-511f491d-ea2b-428f-900e-604ea778dab5, CSC 1003, Software Engineering Course, This course introduces software engineering to level 1 student, 12AM-6ec5a9a1-54b9-4310-96f4-9ecbdbf8344f, objective-f4de69e1-e2ba-41a6-a268-803293e73080, classroom-25eafa60-5f87-4e1f-9609-93bcdcfbb0c9, setutorial-adbef907-11e0-40c1-8dd2-37eb02899ea9, lecturing-14868c21-cca2-436b-9ccc-23c411ab22ca, digital-ab422ef5-9bd5-451f-8ab7-9274ffdf5739, teacher-b4e46cbe-e682-4132-a2d7-ca92e404c216, CSC 1023, Software Engineering Tutorial, This tutorial answers level 1 student questions on software engineering, 10AM-0fbdca75-5c06-4a88-9181-ee1a035a7fec, tutoring-bb6311ad-c7a3-412c-84f1-4f5cf76b4a75, teacher-f6f76647-ad40-4a4e-93c0-6840ccec87d3 (18.6%): 18.6%
+computerroom-5a2454c8-c664-401c-86b7-425e75dddc39, rule-cdc19603-45e5-4c06-8d5a-47624147f67e, bsc-410688e8-e5d3-4e9c-9ca4-c28bf92827af, sepractical-88ca540f-fd64-4a3c-92fd-590a12f1f46b, CSC 1013, Software Engineering Practical, This course monitor software engineering practical questions for level 1 student, 10AM-12AM-f4e589a5-aac9-42b7-b498-706732141ca1, seproject-d3e90a3c-f550-45eb-b00e-59a3c6120318, projector-6579cf57-4d1d-498d-bd51-bbc0caa7105b, practical-4f989887-eb53-431f-b188-c9662a042f51, Software Engineering Project, This course is for follow up of software engineering projects of level 1 student, CSC 1005, 08AM-10AM-35e7d9ed-4694-48e0-a6b6-394bd4155a13, objective-284ef78c-99f5-45f0-935a-553678664616, supervision-b45158d0-f812-4ee9-976b-809df57824f2, teacher-a90e1d36-c79f-47f1-a2b5-c805266e2bcc (18.6%): 18.6%
+
+
+2024-12-02 15:50:49 - Exécution de la tâche: Visualiser le Graphe
+Visualisation du graphe des connaissances.
+
+2024-12-02 16:00:48 - Exécution de la tâche: Sélectionner une tâche
+
+2024-12-02 16:00:59 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+Visualisation des communautés avec un graphe circulaire:
+dbcourse-b63a9944-19f6-4f41-bcbd-9333ede86272, CSC 1002, DataBase Course, This course introduces the database concept to level 1 student, 8AM-10AM-1470781d-1128-4f43-ab61-4088953f071a, objective-ddd7e420-9347-4a53-8f06-d30d3efd8398, classroom-b2c326d0-8551-41c4-aee5-11365e117523, lecturing-9246b9e2-d557-4869-885a-c541257280eb, laptop-a0268cf3-8b2b-4f83-a467-eefe3a392639, digital-9840998a-2a10-46c4-a1d8-b7262bb88c76, teacher-09c4175e-f119-4d66-ac53-920a5c9dc796 (11.3%): 11.3%
+Activity, pmcourse-adee0f07-9e90-412b-95d4-b45d7a7476bb, PM 1001, Project Management Course, This course introduces project management concepts to level 1 student, 8AM-10AM-b139b467-7fbf-4298-9338-fa372b608e5e, objective-0b6e8fa9-d03d-4636-ab9c-b34578b4ea45, classroom-3414ff41-3e7a-44de-a679-baac1ab873c2, lecturing-12b5c207-f470-4bf3-bb3d-e6b31c954954, book-5afdf1f7-b15f-450b-be5f-e6e5d0505cb5 (10.3%): 10.3%
+dbtutorial-78aca3f8-53fd-4f47-9406-414b493efe19, book-b4d784d0-8be6-473f-a4cc-3c5ff8a80b6d, CSC 1022, DataBase Tutorial, 10AM-f5ee7bc0-fb61-4d4e-9a32-565a5a7df03a, This tutorial answers database question to level 1 student, objective-59c2099d-746e-4872-bbc1-ea0891430f47, computerroom-4ecbe47c-8f8e-4835-93ac-16d2392e30a2, classroom-c1a5b39b-992c-49fb-9c7e-a1ffaa92e884, tutoring-75f9b050-39ca-4751-83d0-1298ec31bbdf, teacher-04ccbc2a-0abe-4d78-90a4-514e8adfda7a (11.3%): 11.3%
+bsc-09c739e7-2a77-4b4c-9197-cdba96c340dd, pycourse-3f993bf5-1c2f-4f58-b85a-7b6b92bcf64b, CSC 1001, Python Course, This course introduces the python programming to level 1 student, 8AM-10AM-0ea7a574-e6be-4dc7-abe1-85a6b8ce2e3d, objective-969f073e-1e01-4ad0-a0f0-fb806ba5a50e, computerroom-5a2454c8-c664-401c-86b7-425e75dddc39, pypractical-f18f0361-3f12-4b3d-9459-ce2a019b4668, lecturing-5737c363-39a6-405a-87d1-9f15bee9e464, laptop-bf775e20-71f6-4587-a518-2c0e73fa7470, teacher-45b1d68b-d33c-4eaf-93af-7c44f8ef3fa8, CSC 1011, Python Practical, This course is for monitoring python programming practicals for level 1 student, practical-fa779b89-5ec8-48f1-b5c3-bda3968382ca, digital-8df1b194-5e61-489b-ab31-366843c55775 (17.5%): 17.5%
+120, tutorialroom-351e99f6-c93b-4377-b987-511652d2eefe, secourse-511f491d-ea2b-428f-900e-604ea778dab5, CSC 1003, Software Engineering Course, This course introduces software engineering to level 1 student, 12AM-6ec5a9a1-54b9-4310-96f4-9ecbdbf8344f, objective-f4de69e1-e2ba-41a6-a268-803293e73080, classroom-25eafa60-5f87-4e1f-9609-93bcdcfbb0c9, setutorial-adbef907-11e0-40c1-8dd2-37eb02899ea9, lecturing-14868c21-cca2-436b-9ccc-23c411ab22ca, digital-ab422ef5-9bd5-451f-8ab7-9274ffdf5739, teacher-b4e46cbe-e682-4132-a2d7-ca92e404c216, CSC 1023, Software Engineering Tutorial, This tutorial answers level 1 student questions on software engineering, 10AM-0fbdca75-5c06-4a88-9181-ee1a035a7fec, tutoring-bb6311ad-c7a3-412c-84f1-4f5cf76b4a75, teacher-f6f76647-ad40-4a4e-93c0-6840ccec87d3 (19.6%): 19.6%
+rule-cdc19603-45e5-4c06-8d5a-47624147f67e, bsc-410688e8-e5d3-4e9c-9ca4-c28bf92827af, sepractical-88ca540f-fd64-4a3c-92fd-590a12f1f46b, CSC 1013, Software Engineering Practical, This course monitor software engineering practical questions for level 1 student, 10AM-12AM-f4e589a5-aac9-42b7-b498-706732141ca1, seproject-d3e90a3c-f550-45eb-b00e-59a3c6120318, projector-6579cf57-4d1d-498d-bd51-bbc0caa7105b, practical-4f989887-eb53-431f-b188-c9662a042f51, Software Engineering Project, This course is for follow up of software engineering projects of level 1 student, CSC 1005, 08AM-10AM-35e7d9ed-4694-48e0-a6b6-394bd4155a13, objective-284ef78c-99f5-45f0-935a-553678664616, supervision-b45158d0-f812-4ee9-976b-809df57824f2, teacher-a90e1d36-c79f-47f1-a2b5-c805266e2bcc (17.5%): 17.5%
+uicourse-eaf2d283-4eb8-4024-a2c5-539984984fdd, CSC 1006, User Interface Course, This course introduces the user interface design principles to level 1 student, 10AM-12AM-6ab82d7d-72dc-40f2-a209-8bc6b4bb04e7, objective-9a59e20a-60f0-4798-8895-50f6b79621c5, computerroom-9cd6c49c-e52f-48ef-9d23-d868af4802c4, classroom-9b1749fc-8ce7-42ce-89d6-4e7ff8b826c7, lecturing-5923c0c5-fe15-4cf9-8dc1-e3f5e73ba02a, bsc-a00ac66e-e5df-4a66-9691-42d318700616, digital-2d8642f5-f270-4d47-9d3c-8132f4fa2668, teacher-39c687e2-5671-4ade-90b1-8f1c45096ea9 (12.4%): 12.4%
+
+
+2024-12-02 16:00:53 - Exécution de la tâche: Visualiser le Graphe
+Visualisation du graphe des connaissances.
+
+2024-12-02 16:04:07 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+Visualisation des communautés avec un graphe circulaire:
+dbcourse-b63a9944-19f6-4f41-bcbd-9333ede86272, CSC 1002, DataBase Course, This course introduces the database concept to level 1 student, objective-ddd7e420-9347-4a53-8f06-d30d3efd8398, classroom-b2c326d0-8551-41c4-aee5-11365e117523, lecturing-9246b9e2-d557-4869-885a-c541257280eb, book-b4d784d0-8be6-473f-a4cc-3c5ff8a80b6d, laptop-a0268cf3-8b2b-4f83-a467-eefe3a392639, digital-9840998a-2a10-46c4-a1d8-b7262bb88c76, teacher-09c4175e-f119-4d66-ac53-920a5c9dc796 (11.3%): 11.3%
+Activity, pmcourse-adee0f07-9e90-412b-95d4-b45d7a7476bb, PM 1001, Project Management Course, This course introduces project management concepts to level 1 student, 8AM-10AM-b139b467-7fbf-4298-9338-fa372b608e5e, objective-0b6e8fa9-d03d-4636-ab9c-b34578b4ea45, classroom-3414ff41-3e7a-44de-a679-baac1ab873c2, lecturing-12b5c207-f470-4bf3-bb3d-e6b31c954954, book-5afdf1f7-b15f-450b-be5f-e6e5d0505cb5 (10.3%): 10.3%
+8AM-10AM-1470781d-1128-4f43-ab61-4088953f071a, bsc-09c739e7-2a77-4b4c-9197-cdba96c340dd, pycourse-3f993bf5-1c2f-4f58-b85a-7b6b92bcf64b, CSC 1001, Python Course, This course introduces the python programming to level 1 student, 8AM-10AM-0ea7a574-e6be-4dc7-abe1-85a6b8ce2e3d, objective-969f073e-1e01-4ad0-a0f0-fb806ba5a50e, tutorialroom-351e99f6-c93b-4377-b987-511652d2eefe, pypractical-f18f0361-3f12-4b3d-9459-ce2a019b4668, lecturing-5737c363-39a6-405a-87d1-9f15bee9e464, laptop-bf775e20-71f6-4587-a518-2c0e73fa7470, teacher-45b1d68b-d33c-4eaf-93af-7c44f8ef3fa8, CSC 1011, Python Practical, This course is for monitoring python programming practicals for level 1 student, rule-cdc19603-45e5-4c06-8d5a-47624147f67e, practical-fa779b89-5ec8-48f1-b5c3-bda3968382ca, digital-8df1b194-5e61-489b-ab31-366843c55775 (19.6%): 19.6%
+dbtutorial-78aca3f8-53fd-4f47-9406-414b493efe19, CSC 1022, DataBase Tutorial, 10AM-f5ee7bc0-fb61-4d4e-9a32-565a5a7df03a, This tutorial answers database question to level 1 student, objective-59c2099d-746e-4872-bbc1-ea0891430f47, computerroom-4ecbe47c-8f8e-4835-93ac-16d2392e30a2, classroom-c1a5b39b-992c-49fb-9c7e-a1ffaa92e884, tutoring-75f9b050-39ca-4751-83d0-1298ec31bbdf, teacher-04ccbc2a-0abe-4d78-90a4-514e8adfda7a (10.3%): 10.3%
+120, secourse-511f491d-ea2b-428f-900e-604ea778dab5, CSC 1003, Software Engineering Course, This course introduces software engineering to level 1 student, 12AM-6ec5a9a1-54b9-4310-96f4-9ecbdbf8344f, objective-f4de69e1-e2ba-41a6-a268-803293e73080, classroom-25eafa60-5f87-4e1f-9609-93bcdcfbb0c9, setutorial-adbef907-11e0-40c1-8dd2-37eb02899ea9, lecturing-14868c21-cca2-436b-9ccc-23c411ab22ca, digital-ab422ef5-9bd5-451f-8ab7-9274ffdf5739, teacher-b4e46cbe-e682-4132-a2d7-ca92e404c216, CSC 1023, Software Engineering Tutorial, This tutorial answers level 1 student questions on software engineering, 10AM-0fbdca75-5c06-4a88-9181-ee1a035a7fec, tutoring-bb6311ad-c7a3-412c-84f1-4f5cf76b4a75, teacher-f6f76647-ad40-4a4e-93c0-6840ccec87d3 (18.6%): 18.6%
+uicourse-eaf2d283-4eb8-4024-a2c5-539984984fdd, CSC 1006, User Interface Course, This course introduces the user interface design principles to level 1 student, 10AM-12AM-6ab82d7d-72dc-40f2-a209-8bc6b4bb04e7, objective-9a59e20a-60f0-4798-8895-50f6b79621c5, computerroom-9cd6c49c-e52f-48ef-9d23-d868af4802c4, classroom-9b1749fc-8ce7-42ce-89d6-4e7ff8b826c7, lecturing-5923c0c5-fe15-4cf9-8dc1-e3f5e73ba02a, bsc-a00ac66e-e5df-4a66-9691-42d318700616, digital-2d8642f5-f270-4d47-9d3c-8132f4fa2668, teacher-39c687e2-5671-4ade-90b1-8f1c45096ea9 (12.4%): 12.4%
+computerroom-5a2454c8-c664-401c-86b7-425e75dddc39, bsc-410688e8-e5d3-4e9c-9ca4-c28bf92827af, sepractical-88ca540f-fd64-4a3c-92fd-590a12f1f46b, CSC 1013, Software Engineering Practical, This course monitor software engineering practical questions for level 1 student, 10AM-12AM-f4e589a5-aac9-42b7-b498-706732141ca1, seproject-d3e90a3c-f550-45eb-b00e-59a3c6120318, projector-6579cf57-4d1d-498d-bd51-bbc0caa7105b, practical-4f989887-eb53-431f-b188-c9662a042f51, Software Engineering Project, This course is for follow up of software engineering projects of level 1 student, CSC 1005, 08AM-10AM-35e7d9ed-4694-48e0-a6b6-394bd4155a13, objective-284ef78c-99f5-45f0-935a-553678664616, supervision-b45158d0-f812-4ee9-976b-809df57824f2, teacher-a90e1d36-c79f-47f1-a2b5-c805266e2bcc (17.5%): 17.5%
+
+
+2024-12-02 16:04:02 - Exécution de la tâche: Visualiser le Graphe
+Visualisation du graphe des connaissances.
+
+2024-12-02 16:08:09 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+Visualisation des communautés avec un graphe circulaire:
+dbcourse-b63a9944-19f6-4f41-bcbd-9333ede86272, CSC 1002, DataBase Course, This course introduces the database concept to level 1 student, 8AM-10AM-1470781d-1128-4f43-ab61-4088953f071a, objective-ddd7e420-9347-4a53-8f06-d30d3efd8398, classroom-b2c326d0-8551-41c4-aee5-11365e117523, dbtutorial-78aca3f8-53fd-4f47-9406-414b493efe19, lecturing-9246b9e2-d557-4869-885a-c541257280eb, bsc-09c739e7-2a77-4b4c-9197-cdba96c340dd, book-b4d784d0-8be6-473f-a4cc-3c5ff8a80b6d, laptop-a0268cf3-8b2b-4f83-a467-eefe3a392639, digital-9840998a-2a10-46c4-a1d8-b7262bb88c76, teacher-09c4175e-f119-4d66-ac53-920a5c9dc796, CSC 1022, DataBase Tutorial, 10AM-f5ee7bc0-fb61-4d4e-9a32-565a5a7df03a, This tutorial answers database question to level 1 student, objective-59c2099d-746e-4872-bbc1-ea0891430f47, computerroom-4ecbe47c-8f8e-4835-93ac-16d2392e30a2, classroom-c1a5b39b-992c-49fb-9c7e-a1ffaa92e884, tutoring-75f9b050-39ca-4751-83d0-1298ec31bbdf, teacher-04ccbc2a-0abe-4d78-90a4-514e8adfda7a (23.7%): 23.7%
+Activity, pmcourse-adee0f07-9e90-412b-95d4-b45d7a7476bb, PM 1001, Project Management Course, This course introduces project management concepts to level 1 student, 8AM-10AM-b139b467-7fbf-4298-9338-fa372b608e5e, objective-0b6e8fa9-d03d-4636-ab9c-b34578b4ea45, classroom-3414ff41-3e7a-44de-a679-baac1ab873c2, lecturing-12b5c207-f470-4bf3-bb3d-e6b31c954954, book-5afdf1f7-b15f-450b-be5f-e6e5d0505cb5 (10.3%): 10.3%
+bsc-410688e8-e5d3-4e9c-9ca4-c28bf92827af, sepractical-88ca540f-fd64-4a3c-92fd-590a12f1f46b, CSC 1013, Software Engineering Practical, This course monitor software engineering practical questions for level 1 student, 10AM-12AM-f4e589a5-aac9-42b7-b498-706732141ca1, seproject-d3e90a3c-f550-45eb-b00e-59a3c6120318, projector-6579cf57-4d1d-498d-bd51-bbc0caa7105b, practical-4f989887-eb53-431f-b188-c9662a042f51, Software Engineering Project, This course is for follow up of software engineering projects of level 1 student, CSC 1005, 08AM-10AM-35e7d9ed-4694-48e0-a6b6-394bd4155a13, objective-284ef78c-99f5-45f0-935a-553678664616, supervision-b45158d0-f812-4ee9-976b-809df57824f2, teacher-a90e1d36-c79f-47f1-a2b5-c805266e2bcc (16.5%): 16.5%
+120, secourse-511f491d-ea2b-428f-900e-604ea778dab5, CSC 1003, Software Engineering Course, This course introduces software engineering to level 1 student, 12AM-6ec5a9a1-54b9-4310-96f4-9ecbdbf8344f, objective-f4de69e1-e2ba-41a6-a268-803293e73080, classroom-25eafa60-5f87-4e1f-9609-93bcdcfbb0c9, setutorial-adbef907-11e0-40c1-8dd2-37eb02899ea9, lecturing-14868c21-cca2-436b-9ccc-23c411ab22ca, digital-ab422ef5-9bd5-451f-8ab7-9274ffdf5739, teacher-b4e46cbe-e682-4132-a2d7-ca92e404c216, CSC 1023, Software Engineering Tutorial, This tutorial answers level 1 student questions on software engineering, 10AM-0fbdca75-5c06-4a88-9181-ee1a035a7fec, tutoring-bb6311ad-c7a3-412c-84f1-4f5cf76b4a75, teacher-f6f76647-ad40-4a4e-93c0-6840ccec87d3 (18.6%): 18.6%
+pycourse-3f993bf5-1c2f-4f58-b85a-7b6b92bcf64b, CSC 1001, Python Course, This course introduces the python programming to level 1 student, 8AM-10AM-0ea7a574-e6be-4dc7-abe1-85a6b8ce2e3d, objective-969f073e-1e01-4ad0-a0f0-fb806ba5a50e, computerroom-5a2454c8-c664-401c-86b7-425e75dddc39, tutorialroom-351e99f6-c93b-4377-b987-511652d2eefe, pypractical-f18f0361-3f12-4b3d-9459-ce2a019b4668, lecturing-5737c363-39a6-405a-87d1-9f15bee9e464, laptop-bf775e20-71f6-4587-a518-2c0e73fa7470, teacher-45b1d68b-d33c-4eaf-93af-7c44f8ef3fa8, CSC 1011, Python Practical, This course is for monitoring python programming practicals for level 1 student, rule-cdc19603-45e5-4c06-8d5a-47624147f67e, practical-fa779b89-5ec8-48f1-b5c3-bda3968382ca, digital-8df1b194-5e61-489b-ab31-366843c55775 (18.6%): 18.6%
+uicourse-eaf2d283-4eb8-4024-a2c5-539984984fdd, CSC 1006, User Interface Course, This course introduces the user interface design principles to level 1 student, 10AM-12AM-6ab82d7d-72dc-40f2-a209-8bc6b4bb04e7, objective-9a59e20a-60f0-4798-8895-50f6b79621c5, computerroom-9cd6c49c-e52f-48ef-9d23-d868af4802c4, classroom-9b1749fc-8ce7-42ce-89d6-4e7ff8b826c7, lecturing-5923c0c5-fe15-4cf9-8dc1-e3f5e73ba02a, bsc-a00ac66e-e5df-4a66-9691-42d318700616, digital-2d8642f5-f270-4d47-9d3c-8132f4fa2668, teacher-39c687e2-5671-4ade-90b1-8f1c45096ea9 (12.4%): 12.4%
+
+
+2024-12-02 16:08:05 - Exécution de la tâche: Visualiser le Graphe
+Visualisation du graphe des connaissances.
+
+2024-12-02 16:12:16 - Exécution de la tâche: Visualiser une Communauté
+
+2024-12-02 16:12:23 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+Visualisation des communautés avec un graphe circulaire:
+pycourse, Activity, CSC 1001, Python Course, This course introduces the python programming to level 1 student, 8AM-10AM-0ea7a574-e6be-4dc7-abe1-85a6b8ce2e3d, objective-969f073e-1e01-4ad0-a0f0-fb806ba5a50e, computerroom-5a2454c8-c664-401c-86b7-425e75dddc39, tutorialroom-351e99f6-c93b-4377-b987-511652d2eefe, pypractical-f18f0361-3f12-4b3d-9459-ce2a019b4668, lecturing-5737c363-39a6-405a-87d1-9f15bee9e464, bsc-09c739e7-2a77-4b4c-9197-cdba96c340dd, laptop-bf775e20-71f6-4587-a518-2c0e73fa7470, teacher-45b1d68b-d33c-4eaf-93af-7c44f8ef3fa8 (100.0%): 100.0%
+
+
+2024-12-02 16:12:11 - Exécution de la tâche: Visualiser une Communauté
+Visualisation de la communauté pour l'activité: pycourse.
+
+2024-12-02 16:13:27 - Exécution de la tâche: Afficher le Journal Récapitulatif
+Affichage du journal récapitulatif des activités et ressources.
+
+2024-12-02 16:23:22 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+Visualisation des communautés avec un graphe circulaire:
+tutor-c502603b-7818-4b1f-9c62-83986bfb17bf, TR001, setutorial-adbef907-11e0-40c1-8dd2-37eb02899ea9, IT unit head, DB tutorial teacher, Database tutorial, Begining database with MySQL, sepractical-88ca540f-fd64-4a3c-92fd-590a12f1f46b, HTML in 100 Seconds, digital-2d8642f5-f270-4d47-9d3c-8132f4fa2668, digital-9840998a-2a10-46c4-a1d8-b7262bb88c76, CSC 1023, tutoring-75f9b050-39ca-4751-83d0-1298ec31bbdf, CSC 1013, itunithead-d89141ba-4b2d-41e4-b1a5-65bc2d409817, Centre-hasName, tutorialroom-57179062-99d4-4da0-88b4-e800809fac73: 11.9%
+book-236fb61b-0908-4892-9ded-974bdbf1c653, Computer architecture: 1.4%
+laptop-bf775e20-71f6-4587-a518-2c0e73fa7470, HP laptop: 1.4%
+Bsc year 2, bsc-09c739e7-2a77-4b4c-9197-cdba96c340dd: 1.4%
+CSC 1005, seproject-d3e90a3c-f550-45eb-b00e-59a3c6120318: 1.4%
+Project management teacher, lecturer-13aa62db-f676-48d5-97dd-8e81b5c70667: 1.4%
+PR003, computerroom-9cd6c49c-e52f-48ef-9d23-d868af4802c4: 1.4%
+Python course objective, objective-969f073e-1e01-4ad0-a0f0-fb806ba5a50e: 1.4%
+practical-7e92043f-3f76-4e10-a885-971d415f4861, Software Engineering practical: 1.4%
+Computer hardware, book-9d0de03c-dcc8-4a6c-8dd3-3b921cba2d1b: 1.4%
+Web interface with HTML, book-0626b11e-a0d8-4eab-9485-4d42a51e8581: 1.4%
+Learn Python - Full Course for Beginners, digital-8df1b194-5e61-489b-ab31-366843c55775: 1.4%
+secourse-511f491d-ea2b-428f-900e-604ea778dab5, CSC 1003: 1.4%
+lecturer-a5bed203-9120-4d40-b108-6df44a78d3a2, SE course teacher: 1.4%
+bsc-410688e8-e5d3-4e9c-9ca4-c28bf92827af, Bsc year 3: 1.4%
+Database tutorial objective, objective-59c2099d-746e-4872-bbc1-ea0891430f47: 1.4%
+director-bf3b0ecc-3e6e-4d7b-9cb1-ec05ba5be398, Director: 1.4%
+objective-0b6e8fa9-d03d-4636-ab9c-b34578b4ea45, Project management course objective: 1.4%
+desktop-b71a8e25-db09-46b4-92a2-fef44f77d87b, IBM desktop computer: 1.4%
+supervision-b45158d0-f812-4ee9-976b-809df57824f2, Software Engineering project: 1.4%
+laptop-a206be12-21fb-4fbf-b40b-4459b1cf4348, Lenovo laptop: 1.4%
+objective-284ef78c-99f5-45f0-935a-553678664616, Software engineering project objective: 1.4%
+Python course teacher, lecturer-1c787fcc-3ef9-43c6-bfa3-f05823b50645: 1.4%
+Dell laptop, laptop-a0268cf3-8b2b-4f83-a467-eefe3a392639: 1.4%
+MySQL 8.0, software-7b5f05b1-0701-43bb-ad0f-a98a27dc9312: 1.4%
+book-b2806065-7423-429f-bddd-b2208121325f, Python programming for intermediate: 1.4%
+Software engineering course objective, objective-f4de69e1-e2ba-41a6-a268-803293e73080: 1.4%
+lecturing-14868c21-cca2-436b-9ccc-23c411ab22ca, Software Engineering lecture: 1.4%
+Panasonic LCD Projector, projector-6579cf57-4d1d-498d-bd51-bbc0caa7105b: 1.4%
+lecturer-9cc8c82a-a80e-4edc-a50d-771413af9ee0, UI course teacher: 1.4%
+CSC 1006, uicourse-eaf2d283-4eb8-4024-a2c5-539984984fdd: 1.4%
+lecturer-c83b7873-f908-484d-a044-2802814f87d1, DB course teacher: 1.4%
+bsc-a00ac66e-e5df-4a66-9691-42d318700616, Bsc year 1: 1.4%
+CR001, classroom-b2c326d0-8551-41c4-aee5-11365e117523: 1.4%
+tutor-e4449e8b-a090-4652-9b91-231d9e7a070a, SE tutorial teacher: 1.4%
+dbtutorial-78aca3f8-53fd-4f47-9406-414b493efe19, CSC 1022: 1.4%
+lecturing-5737c363-39a6-405a-87d1-9f15bee9e464, Python programming lecture: 1.4%
+supervisor-1339002e-3ef1-4e12-8eec-8feff0a82a67, Python project supervisor: 1.4%
+PM 1001, pmcourse-adee0f07-9e90-412b-95d4-b45d7a7476bb: 1.4%
+classroom-c1a5b39b-992c-49fb-9c7e-a1ffaa92e884, CR002: 1.4%
+Database course objective, objective-ddd7e420-9347-4a53-8f06-d30d3efd8398: 1.4%
+dbcourse-b63a9944-19f6-4f41-bcbd-9333ede86272, CSC 1002: 1.4%
+Introduction to MYSQL, book-b4d784d0-8be6-473f-a4cc-3c5ff8a80b6d: 1.4%
+digital-b611ffdb-144f-4858-8519-9d6feec9f928, HTML Presentation: 1.4%
+Software Engineering tutorial, tutoring-bb6311ad-c7a3-412c-84f1-4f5cf76b4a75: 1.4%
+User Interface designing lecture, lecturing-5923c0c5-fe15-4cf9-8dc1-e3f5e73ba02a: 1.4%
+practical-4f989887-eb53-431f-b188-c9662a042f51, SE practical teacher: 1.4%
+HTML course objective, objective-9a59e20a-60f0-4798-8895-50f6b79621c5: 1.4%
+Introduction to sofware engineering, digital-ab422ef5-9bd5-451f-8ab7-9274ffdf5739: 1.4%
+classroom-25eafa60-5f87-4e1f-9609-93bcdcfbb0c9, CR004: 1.4%
+Master project management, book-5afdf1f7-b15f-450b-be5f-e6e5d0505cb5: 1.4%
+digital-f76fbf2e-b9a1-46ec-b446-b76389636810, Microsoft excel course: 1.4%
+Assembly language, book-acca8da0-a675-4e21-bbae-ff60772105d0: 1.4%
+classroom-3414ff41-3e7a-44de-a679-baac1ab873c2, CR005: 1.4%
+PR001, computerroom-4ecbe47c-8f8e-4835-93ac-16d2392e30a2: 1.4%
+practical-fa779b89-5ec8-48f1-b5c3-bda3968382ca, Python programming practical: 1.4%
+computerroom-5a2454c8-c664-401c-86b7-425e75dddc39, PR002: 1.4%
+TR002, tutorialroom-351e99f6-c93b-4377-b987-511652d2eefe: 1.4%
+CSC 1001, pycourse-3f993bf5-1c2f-4f58-b85a-7b6b92bcf64b: 1.4%
+pypractical-f18f0361-3f12-4b3d-9459-ce2a019b4668, CSC 1011: 1.4%
+lecturing-12b5c207-f470-4bf3-bb3d-e6b31c954954, Project management lecture: 1.4%
+SE project supervisor, supervisor-accb038e-58dd-4967-9ab1-2648fcdc5e5e: 1.4%
+lecturing-9246b9e2-d557-4869-885a-c541257280eb, Database lecture: 1.4%
+classroom-9b1749fc-8ce7-42ce-89d6-4e7ff8b826c7, CR003: 1.4%
+
+
+2024-12-02 16:23:53 - Exécution de la tâche: Afficher le Journal Récapitulatif
+Affichage du journal récapitulatif des activités et ressources.
+
+2024-12-02 16:24:10 - Exécution de la tâche: Visualiser Activités Sélectionnées
+Visualisation des activités sélectionnées: pycourse, dbcourse.
+
+2024-12-02 16:22:57 - Exécution de la tâche: Visualiser Communauté en Étoile
+Visualisation de la communauté en étoile pour la propriété: hasName.
+
+2024-12-02 16:29:01 - Exécution de la tâche: Visualiser Activités Sélectionnées
+Visualisation des activités sélectionnées: pycourse, dbcourse.
+
+2024-12-02 16:31:43 - Exécution de la tâche: Visualiser Activités Sélectionnées
+Visualisation des activités sélectionnées: dbcourse, uicourse.
+
+2024-12-02 16:40:11 - Exécution de la tâche: Visualiser Activités Sélectionnées
+Visualisation des activités sélectionnées: pycourse, dbcourse.
+
+2024-12-02 16:51:43 - Exécution de la tâche: Visualiser Graphe en 3D
+Visualisation du graphe des connaissances en 3D.
+
+2024-12-02 16:52:08 - Exécution de la tâche: Visualiser une Communauté
+Visualisation de la communauté pour l'activité: pycourse.
+
+2024-12-02 16:52:22 - Exécution de la tâche: Visualiser Activités Sélectionnées
+Visualisation des activités sélectionnées: pycourse, dbcourse.
+
+2024-12-02 16:52:03 - Exécution de la tâche: Visualiser le Graphe
+Visualisation du graphe des connaissances.
+
+2024-12-02 16:57:08 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+
+2024-12-02 16:57:39 - Exécution de la tâche: Visualiser Activités Sélectionnées
+Visualisation des activités sélectionnées: pycourse, dbcouse.
+
+2024-12-02 16:57:54 - Exécution de la tâche: Visualiser Activités Sélectionnées
+Visualisation des activités sélectionnées: pycourse, dbcourse.
+
+2024-12-02 16:57:14 - Exécution de la tâche: Visualiser Communauté en Étoile
+Visualisation de la communauté en étoile pour la propriété: hasLocation.
+
+2024-12-02 17:06:15 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+
+2024-12-02 17:06:32 - Exécution de la tâche: Visualiser Activités Sélectionnées
+Visualisation des activités sélectionnées: pycourse, dbcourse.
+
+2024-12-02 17:06:21 - Exécution de la tâche: Visualiser le Graphe
+Visualisation du graphe des connaissances.
+
+2024-12-02 17:13:53 - Exécution de la tâche: Visualiser Communauté en Étoile
+
+2024-12-02 17:14:09 - Exécution de la tâche: Visualiser Communauté en Étoile
+
+2024-12-02 17:14:20 - Exécution de la tâche: Visualiser Activités Sélectionnées
+Visualisation des activités sélectionnées: pycourse, dbcourse.
+
+2024-12-02 19:38:47 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+
+2024-12-02 19:38:51 - Exécution de la tâche: Visualiser le Graphe
+Visualisation du graphe des connaissances.
+
+2024-12-02 19:39:12 - Exécution de la tâche: Visualiser Activités Sélectionnées
+Visualisation des activités sélectionnées: pycourse, dbcourse.
+
+2024-12-02 19:39:31 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+Visualisation des communautés avec un graphe circulaire:
+pypractical-f18f0361-3f12-4b3d-9459-ce2a019b4668, teacher-45b1d68b-d33c-4eaf-93af-7c44f8ef3fa8, pycourse, laptop-bf775e20-71f6-4587-a518-2c0e73fa7470, objective-969f073e-1e01-4ad0-a0f0-fb806ba5a50e, Activity, CSC 1001, lecturing-5737c363-39a6-405a-87d1-9f15bee9e464, This course introduces the python programming to level 1 student, computerroom-5a2454c8-c664-401c-86b7-425e75dddc39, Python Course, 8AM-10AM-0ea7a574-e6be-4dc7-abe1-85a6b8ce2e3d, tutorialroom-351e99f6-c93b-4377-b987-511652d2eefe: 48.1%
+CSC 1002, This course introduces the database concept to level 1 student, digital-9840998a-2a10-46c4-a1d8-b7262bb88c76, bsc-09c739e7-2a77-4b4c-9197-cdba96c340dd, DataBase Course, objective-ddd7e420-9347-4a53-8f06-d30d3efd8398, classroom-b2c326d0-8551-41c4-aee5-11365e117523, dbtutorial-78aca3f8-53fd-4f47-9406-414b493efe19, laptop-a0268cf3-8b2b-4f83-a467-eefe3a392639, lecturing-9246b9e2-d557-4869-885a-c541257280eb, teacher-09c4175e-f119-4d66-ac53-920a5c9dc796, 8AM-10AM-1470781d-1128-4f43-ab61-4088953f071a, book-b4d784d0-8be6-473f-a4cc-3c5ff8a80b6d, dbcourse: 51.9%
+
+
+2024-12-02 19:38:57 - Exécution de la tâche: Visualiser une Communauté
+Visualisation de la communauté pour l'activité: pycourse.
+
+2024-12-02 19:56:43 - Exécution de la tâche: Visualiser Activités Sélectionnées
+Visualisation des activités sélectionnées: pycourse, dbcourse.
+
+2024-12-02 20:55:13 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+Visualisation des communautés avec un graphe circulaire.
+
+2024-12-02 20:55:29 - Exécution de la tâche: Visualiser le Graphe
+Visualisation du graphe des connaissances.
+
+2024-12-02 20:55:36 - Exécution de la tâche: Afficher la Liste des Communautés
+Affichage de la liste des communautés détectées.
+
+2024-12-02 20:54:32 - Exécution de la tâche: Visualiser Graphe en 3D
+Visualisation du graphe des connaissances en 3D.
+
+2024-12-02 21:41:43 - Exécution de la tâche: Afficher la Liste des Communautés
+Affichage de la liste des communautés détectées.
+
+2024-12-02 21:48:18 - Exécution de la tâche: Afficher la Liste des Communautés
+Affichage de la liste des communautés détectées.
+
+2024-12-02 21:51:33 - Exécution de la tâche: Afficher la Liste des Communautés
+Affichage de la liste des communautés détectées.
+
+2024-12-02 21:52:08 - Exécution de la tâche: Afficher la Liste des Communautés
+Affichage de la liste des communautés détectées.
+
+2024-12-02 21:52:43 - Exécution de la tâche: Sélectionner une tâche
+
+2024-12-02 21:52:46 - Exécution de la tâche: Sélectionner une tâche
+
+2024-12-02 21:52:50 - Exécution de la tâche: Afficher la Liste des Communautés
+Affichage de la liste des communautés détectées.
+
+2024-12-02 21:54:02 - Exécution de la tâche: Afficher la Liste des Communautés
+Affichage de la liste des communautés détectées.
+
+2024-12-02 21:54:09 - Exécution de la tâche: Visualiser le Graphe
+Visualisation du graphe des connaissances.
+
+2024-12-02 21:54:14 - Exécution de la tâche: Afficher la Liste des Communautés
+Affichage de la liste des communautés détectées.
+
+2024-12-02 21:54:08 - Exécution de la tâche: Visualiser le Graphe
+Visualisation du graphe des connaissances.
+
+2024-12-02 22:03:41 - Exécution de la tâche: Sélectionner une tâche
+
+2024-12-02 22:03:57 - Exécution de la tâche: Visualiser une Communauté
+
+2024-12-02 22:04:03 - Exécution de la tâche: Afficher la Liste des Communautés
+Affichage de la liste des communautés détectées.
+
+2024-12-02 22:05:11 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+Visualisation des communautés avec un graphe circulaire.
+
+2024-12-02 22:05:15 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+Visualisation des communautés avec un graphe circulaire.
+
+2024-12-02 22:05:21 - Exécution de la tâche: Afficher le Journal Récapitulatif
+Affichage du journal récapitulatif des activités et ressources.
+
+2024-12-02 22:32:16 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+Visualisation des communautés avec un graphe circulaire.
+
+2024-12-02 22:32:34 - Exécution de la tâche: Visualiser Communauté en Étoile
+
+2024-12-02 22:32:00 - Exécution de la tâche: Visualiser Activités Sélectionnées
+Visualisation des activités sélectionnées: pycourse, dbcourse.
+
+2024-12-02 22:39:53 - Exécution de la tâche: Sélectionner une tâche
+
+2024-12-02 22:39:54 - Exécution de la tâche: Sélectionner une tâche
+
+2024-12-02 22:40:00 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+Visualisation des communautés avec un graphe circulaire.
+
+2024-12-02 22:40:17 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+Visualisation des communautés avec un graphe circulaire.
+
+2024-12-02 22:40:13 - Exécution de la tâche: Visualiser le Graphe
+Visualisation du graphe des connaissances.
+
+2024-12-02 22:45:58 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+Visualisation des communautés avec un graphe circulaire.
+
+2024-12-02 22:46:09 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+Visualisation des communautés avec un graphe circulaire.
+
+2024-12-02 22:46:03 - Exécution de la tâche: Visualiser le Graphe
+
+2024-12-02 23:04:18 - Exécution de la tâche: Sélectionner une tâche
+
+2024-12-02 23:04:23 - Exécution de la tâche: Visualiser le Graphe
+Visualisation du graphe des connaissances.
+
+2024-12-02 23:04:30 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+
+2024-12-02 23:04:31 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+
+2024-12-02 23:04:32 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+
+2024-12-02 23:08:17 - Exécution de la tâche: Visualiser le Graphe
+Visualisation du graphe des connaissances.
+
+2024-12-02 23:08:23 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+
+2024-12-02 23:08:29 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+
+2024-12-02 23:08:15 - Exécution de la tâche: Visualiser le Graphe
+
+2024-12-02 23:15:25 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+
+2024-12-02 23:15:21 - Exécution de la tâche: Visualiser le Graphe
+
+2024-12-02 23:16:10 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+
+2024-12-02 23:16:11 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+
+2024-12-02 23:17:35 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+Visualisation des communautés avec un graphe circulaire.
+
+2024-12-02 23:17:32 - Exécution de la tâche: Visualiser le Graphe
+Visualisation du graphe des connaissances.
+
+2024-12-02 23:42:19 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+
+2024-12-02 23:42:15 - Exécution de la tâche: Visualiser le Graphe
+
+2024-12-02 23:49:18 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+Visualisation des communautés avec un graphe circulaire.
+
+2024-12-02 23:49:14 - Exécution de la tâche: Visualiser le Graphe
+Visualisation du graphe des connaissances.
+
+2024-12-02 23:56:48 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+Visualisation des communautés avec un graphe circulaire.
+
+2024-12-02 23:56:44 - Exécution de la tâche: Visualiser le Graphe
+Visualisation du graphe des connaissances.
+
+2024-12-03 00:07:19 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+Visualisation des communautés avec un graphe circulaire.
+
+2024-12-03 00:07:46 - Exécution de la tâche: Afficher la Liste des Communautés
+Affichage de la liste des communautés détectées.
+
+2024-12-03 00:08:14 - Exécution de la tâche: Visualiser une Communauté
+Visualisation de la communauté pour l'activité: pycourse.
+
+2024-12-03 00:08:25 - Exécution de la tâche: Visualiser une Communauté
+
+2024-12-03 00:08:31 - Exécution de la tâche: Visualiser Graphe en 3D
+Visualisation du graphe des connaissances en 3D.
+
+2024-12-03 00:08:42 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+Visualisation des communautés avec un graphe circulaire.
+
+2024-12-03 00:07:14 - Exécution de la tâche: Visualiser le Graphe
+Visualisation du graphe des connaissances.
+
+2024-12-03 00:24:37 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+Visualisation des communautés avec un graphe circulaire.
+
+2024-12-03 00:27:25 - Exécution de la tâche: Visualiser Graphe en 3D
+Visualisation du graphe des connaissances en 3D.
+
+2024-12-03 00:27:58 - Exécution de la tâche: Afficher le Journal Récapitulatif
+Affichage du journal récapitulatif des activités et ressources.
+
+2024-12-03 00:24:32 - Exécution de la tâche: Visualiser le Graphe
+Visualisation du graphe des connaissances.
+
+2024-12-03 00:43:05 - Exécution de la tâche: Visualiser le Graphe
+Visualisation du graphe des connaissances.
+
+2024-12-03 00:43:12 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+Visualisation des communautés avec un graphe circulaire.
+
+2024-12-03 00:43:03 - Exécution de la tâche: Visualiser le Graphe
+Visualisation du graphe des connaissances.
+
+2024-12-03 00:49:38 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+Visualisation des communautés avec un graphe circulaire.
+
+2024-12-03 00:48:59 - Exécution de la tâche: Visualiser Activités Sélectionnées
+Visualisation des activités sélectionnées: pycourse, dbcourse.
+
+2024-12-03 00:58:03 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+Visualisation des communautés avec un graphe circulaire.
+
+2024-12-03 00:59:00 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+Visualisation des communautés avec un graphe circulaire.
+
+2024-12-03 00:57:59 - Exécution de la tâche: Visualiser le Graphe
+Visualisation du graphe des connaissances.
+
+2024-12-03 01:07:10 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+Visualisation des communautés avec un graphe circulaire.
+
+2024-12-03 01:07:03 - Exécution de la tâche: Visualiser le Graphe
+Visualisation du graphe des connaissances.
+
+2024-12-02 23:04:21 - Exécution de la tâche: Visualiser le Graphe
+
+2024-12-02 23:16:07 - Exécution de la tâche: Visualiser le Graphe
+2024-12-03 08:31:14 - Exécution de la tâche: Visualiser le Graphe
+2024-12-03 08:31:19 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+2024-12-03 08:31:19 - Visualisation des communautés avec un graphe circulaire.
+2024-12-03 08:33:05 - Visualisation du graphe des connaissances.
+2024-12-03 08:52:17 - Exécution de la tâche: Visualiser le Graphe
+2024-12-03 08:52:51 - Visualisation du graphe des connaissances.
+2024-12-03 08:52:54 - Exécution de la tâche: Visualiser une Communauté
+2024-12-03 08:53:40 - Exécution de la tâche: Afficher le Journal Récapitulatif
+2024-12-03 08:53:40 - Affichage du journal récapitulatif des activités et ressources.
+2024-12-03 08:54:39 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+2024-12-03 08:54:39 - Visualisation des communautés avec un graphe circulaire.
+2024-12-03 08:55:10 - Exécution de la tâche: Visualiser Activités Sélectionnées
+2024-12-03 08:55:23 - Attention : L'activité 'pucourse' n'a pas été trouvée dans le graphe RDF.
+2024-12-03 08:55:23 - Visualisation des activités sélectionnées: pucourse, uicourse.
+2024-12-03 08:55:30 - Exécution de la tâche: Visualiser Activités Sélectionnées
+2024-12-03 08:55:39 - Visualisation des activités sélectionnées: pycourse, dbcourse.
+2024-12-03 08:56:18 - Exécution de la tâche: Visualiser Graphe Circulaire des Communautés
+2024-12-03 08:56:18 - Visualisation des communautés avec un graphe circulaire.
+2024-12-04 21:42:34 - Visualisation de la communauté pour l'activité: pycourse.
+2024-12-11 01:01:14 - Exécution de la tâche: Visualiser le Graphe
+2024-12-11 01:01:22 - Exécution de la tâche: Afficher la Liste des Communautés

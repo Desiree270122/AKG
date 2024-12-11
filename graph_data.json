@@ -1,0 +1,2552 @@
+[
+    {
+        "subject": "Teacher",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "Tutor"
+    },
+    {
+        "subject": "Operator",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "hasRole",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#ObjectProperty"
+    },
+    {
+        "subject": "dbtutorial-78aca3f8-53fd-4f47-9406-414b493efe19",
+        "predicate": "http://sonfack.com/2023/12/cao/isComposedOf",
+        "object": "tutoring-75f9b050-39ca-4751-83d0-1298ec31bbdf"
+    },
+    {
+        "subject": "tutoring-bb6311ad-c7a3-412c-84f1-4f5cf76b4a75",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://sonfack.com/2023/12/cao/Action"
+    },
+    {
+        "subject": "teacher-09c4175e-f119-4d66-ac53-920a5c9dc796",
+        "predicate": "hasRole",
+        "object": "director-bf3b0ecc-3e6e-4d7b-9cb1-ec05ba5be398"
+    },
+    {
+        "subject": "isFoundIn",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "is found in"
+    },
+    {
+        "subject": "digital-8df1b194-5e61-489b-ab31-366843c55775",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "Video"
+    },
+    {
+        "subject": "12AM-1461e790-cd81-4f7b-96dc-3a2431e32eb0",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "https://w3id.org/MON/time.owl#Instant"
+    },
+    {
+        "subject": "digital-9840998a-2a10-46c4-a1d8-b7262bb88c76",
+        "predicate": "isUsedFor",
+        "object": "dbtutorial-78aca3f8-53fd-4f47-9406-414b493efe19"
+    },
+    {
+        "subject": "sepractical-88ca540f-fd64-4a3c-92fd-590a12f1f46b",
+        "predicate": "http://sonfack.com/2023/12/cao/isComposedOf",
+        "object": "practical-4f989887-eb53-431f-b188-c9662a042f51"
+    },
+    {
+        "subject": "seproject-d3e90a3c-f550-45eb-b00e-59a3c6120318",
+        "predicate": "http://sonfack.com/2023/12/cao/activityDescription",
+        "object": "This course is for follow up of software engineering projects of level 1 student"
+    },
+    {
+        "subject": "teacher-04ccbc2a-0abe-4d78-90a4-514e8adfda7a",
+        "predicate": "hasRole",
+        "object": "tutor-c502603b-7818-4b1f-9c62-83986bfb17bf"
+    },
+    {
+        "subject": "8AM-10AM-0ea7a574-e6be-4dc7-abe1-85a6b8ce2e3d",
+        "predicate": "https://w3id.org/MON/time.owl#hasBeginning",
+        "object": "8AM-a1285744-ddb3-4875-8e77-ed1a7033ccd2"
+    },
+    {
+        "subject": "objective-59c2099d-746e-4872-bbc1-ea0891430f47",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "tutorialObject"
+    },
+    {
+        "subject": "http://sonfack.com/2024/01/tao#",
+        "predicate": "http://www.w3.org/2002/07/owl#imports",
+        "object": "file:///C:/Users/Nael_Gaizka/Documents/projet_tpe/core_activity_ontology.ttl"
+    },
+    {
+        "subject": "book-b2806065-7423-429f-bddd-b2208121325f",
+        "predicate": "isUsedFor",
+        "object": "pypractical-f18f0361-3f12-4b3d-9459-ce2a019b4668"
+    },
+    {
+        "subject": "laptop-a206be12-21fb-4fbf-b40b-4459b1cf4348",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "Laptop"
+    },
+    {
+        "subject": "digital-b611ffdb-144f-4858-8519-9d6feec9f928",
+        "predicate": "isUsedFor",
+        "object": "uicourse-eaf2d283-4eb8-4024-a2c5-539984984fdd"
+    },
+    {
+        "subject": "AdministrativeStaff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Administrative staff"
+    },
+    {
+        "subject": "setutorial-adbef907-11e0-40c1-8dd2-37eb02899ea9",
+        "predicate": "http://sonfack.com/2023/12/cao/hasObjective",
+        "object": "objective-f4de69e1-e2ba-41a6-a268-803293e73080"
+    },
+    {
+        "subject": "Human",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Human subject"
+    },
+    {
+        "subject": "digital-b611ffdb-144f-4858-8519-9d6feec9f928",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "SoftDocument"
+    },
+    {
+        "subject": "dbtutorial-78aca3f8-53fd-4f47-9406-414b493efe19",
+        "predicate": "http://sonfack.com/2023/12/cao/hasSubject",
+        "object": "teacher-04ccbc2a-0abe-4d78-90a4-514e8adfda7a"
+    },
+    {
+        "subject": "TeachingStaff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "pycourse-3f993bf5-1c2f-4f58-b85a-7b6b92bcf64b",
+        "predicate": "http://sonfack.com/2023/12/cao/hasLocation",
+        "object": "tutorialroom-351e99f6-c93b-4377-b987-511652d2eefe"
+    },
+    {
+        "subject": "teacher-39c687e2-5671-4ade-90b1-8f1c45096ea9",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "Human"
+    },
+    {
+        "subject": "software-7b5f05b1-0701-43bb-ad0f-a98a27dc9312",
+        "predicate": "isUsedFor",
+        "object": "dbcourse-b63a9944-19f6-4f41-bcbd-9333ede86272"
+    },
+    {
+        "subject": "objective-969f073e-1e01-4ad0-a0f0-fb806ba5a50e",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "teachingObject"
+    },
+    {
+        "subject": "Teacher",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "secourse-511f491d-ea2b-428f-900e-604ea778dab5",
+        "predicate": "http://sonfack.com/2023/12/cao/hasDuration",
+        "object": "120"
+    },
+    {
+        "subject": "setutorial-adbef907-11e0-40c1-8dd2-37eb02899ea9",
+        "predicate": "http://sonfack.com/2023/12/cao/activityDescription",
+        "object": "This tutorial answers level 1 student questions on software engineering"
+    },
+    {
+        "subject": "dbtutorial-78aca3f8-53fd-4f47-9406-414b493efe19",
+        "predicate": "hasLocation",
+        "object": "classroom-c1a5b39b-992c-49fb-9c7e-a1ffaa92e884"
+    },
+    {
+        "subject": "sepractical-88ca540f-fd64-4a3c-92fd-590a12f1f46b",
+        "predicate": "http://sonfack.com/2023/12/cao/hasLocation",
+        "object": "computerroom-5a2454c8-c664-401c-86b7-425e75dddc39"
+    },
+    {
+        "subject": "isFollowedBy",
+        "predicate": "http://www.w3.org/2002/07/owl#inverseOf",
+        "object": "http://sonfack.com/2023/12/cao/follows"
+    },
+    {
+        "subject": "digital-2d8642f5-f270-4d47-9d3c-8132f4fa2668",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "Video"
+    },
+    {
+        "subject": "Automaton",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Automaton subject of an activity"
+    },
+    {
+        "subject": "classroom-9b1749fc-8ce7-42ce-89d6-4e7ff8b826c7",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "ClassRoom"
+    },
+    {
+        "subject": "director-bf3b0ecc-3e6e-4d7b-9cb1-ec05ba5be398",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Director"
+    },
+    {
+        "subject": "pypractical-f18f0361-3f12-4b3d-9459-ce2a019b4668",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Python Practical"
+    },
+    {
+        "subject": "TutorialRoom",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "A geographical located tutorialroom"
+    },
+    {
+        "subject": "sepractical-88ca540f-fd64-4a3c-92fd-590a12f1f46b",
+        "predicate": "http://sonfack.com/2023/12/cao/activityDescription",
+        "object": "This course monitor software engineering practical questions for level 1 student"
+    },
+    {
+        "subject": "hasRole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "has role"
+    },
+    {
+        "subject": "classroom-25eafa60-5f87-4e1f-9609-93bcdcfbb0c9",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "CR004"
+    },
+    {
+        "subject": "uicourse-eaf2d283-4eb8-4024-a2c5-539984984fdd",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://sonfack.com/2023/12/cao/Activity"
+    },
+    {
+        "subject": "practical-4f989887-eb53-431f-b188-c9662a042f51",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "SE practical teacher"
+    },
+    {
+        "subject": "teacher-019b097e-7eb4-4338-a2f5-f326477d7d20",
+        "predicate": "hasRole",
+        "object": "practical-4f989887-eb53-431f-b188-c9662a042f51"
+    },
+    {
+        "subject": "bsc-410688e8-e5d3-4e9c-9ca4-c28bf92827af",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Bsc year 3"
+    },
+    {
+        "subject": "Building",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "http://sonfack.com/2023/12/cao/Location"
+    },
+    {
+        "subject": "rule-cdc19603-45e5-4c06-8d5a-47624147f67e",
+        "predicate": "ruleDescription",
+        "object": "Always check the energy availability in computer rooms before the beginning of practicals"
+    },
+    {
+        "subject": "classroom-25eafa60-5f87-4e1f-9609-93bcdcfbb0c9",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "ClassRoom"
+    },
+    {
+        "subject": "practical-7e92043f-3f76-4e10-a885-971d415f4861",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Software Engineering practical"
+    },
+    {
+        "subject": "pmcourse-adee0f07-9e90-412b-95d4-b45d7a7476bb",
+        "predicate": "http://sonfack.com/2023/12/cao/isCarriedOutWith",
+        "object": "book-5afdf1f7-b15f-450b-be5f-e6e5d0505cb5"
+    },
+    {
+        "subject": "TopManagement",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "pypractical-f18f0361-3f12-4b3d-9459-ce2a019b4668",
+        "predicate": "http://sonfack.com/2023/12/cao/hasLocation",
+        "object": "tutorialroom-351e99f6-c93b-4377-b987-511652d2eefe"
+    },
+    {
+        "subject": "dbcourse-b63a9944-19f6-4f41-bcbd-9333ede86272",
+        "predicate": "http://sonfack.com/2023/12/cao/isBeneficialTo",
+        "object": "bsc-09c739e7-2a77-4b4c-9197-cdba96c340dd"
+    },
+    {
+        "subject": "book-0626b11e-a0d8-4eab-9485-4d42a51e8581",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Web interface with HTML"
+    },
+    {
+        "subject": "Community",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "TutorialRoom",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#lable",
+        "object": "Tutorialroom Location"
+    },
+    {
+        "subject": "book-acca8da0-a675-4e21-bbae-ff60772105d0",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "HardDocument"
+    },
+    {
+        "subject": "pycourse-3f993bf5-1c2f-4f58-b85a-7b6b92bcf64b",
+        "predicate": "isFollowedBy",
+        "object": "pypractical-f18f0361-3f12-4b3d-9459-ce2a019b4668"
+    },
+    {
+        "subject": "digital-2d8642f5-f270-4d47-9d3c-8132f4fa2668",
+        "predicate": "isUsedFor",
+        "object": "uicourse-eaf2d283-4eb8-4024-a2c5-539984984fdd"
+    },
+    {
+        "subject": "isFoundIn",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#ObjectProperty"
+    },
+    {
+        "subject": "Human",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Human subject of an activity"
+    },
+    {
+        "subject": "dbtutorial-78aca3f8-53fd-4f47-9406-414b493efe19",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://sonfack.com/2023/12/cao/Activity"
+    },
+    {
+        "subject": "Organization",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Organization subject"
+    },
+    {
+        "subject": "bsc-a00ac66e-e5df-4a66-9691-42d318700616",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Bsc 1 students"
+    },
+    {
+        "subject": "bsc-410688e8-e5d3-4e9c-9ca4-c28bf92827af",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "Students"
+    },
+    {
+        "subject": "hasRole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#range",
+        "object": "Role"
+    },
+    {
+        "subject": "practical-7e92043f-3f76-4e10-a885-971d415f4861",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://sonfack.com/2023/12/cao/Action"
+    },
+    {
+        "subject": "sepractical-88ca540f-fd64-4a3c-92fd-590a12f1f46b",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://sonfack.com/2023/12/cao/Activity"
+    },
+    {
+        "subject": "teacher-9e1c2630-6a90-43b3-bcd8-639079d43f4a",
+        "predicate": "hasRole",
+        "object": "supervisor-1339002e-3ef1-4e12-8eec-8feff0a82a67"
+    },
+    {
+        "subject": "teacher-04ccbc2a-0abe-4d78-90a4-514e8adfda7a",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "Human"
+    },
+    {
+        "subject": "computerroom-5a2454c8-c664-401c-86b7-425e75dddc39",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "PracticalRoom"
+    },
+    {
+        "subject": "dbtutorial-78aca3f8-53fd-4f47-9406-414b493efe19",
+        "predicate": "hasLocation",
+        "object": "computerroom-4ecbe47c-8f8e-4835-93ac-16d2392e30a2"
+    },
+    {
+        "subject": "secourse-511f491d-ea2b-428f-900e-604ea778dab5",
+        "predicate": "http://sonfack.com/2023/12/cao/hasObjective",
+        "object": "objective-f4de69e1-e2ba-41a6-a268-803293e73080"
+    },
+    {
+        "subject": "pmcourse-adee0f07-9e90-412b-95d4-b45d7a7476bb",
+        "predicate": "http://sonfack.com/2023/12/cao/activityDescription",
+        "object": "This course introduces project management concepts to level 1 student"
+    },
+    {
+        "subject": "Video",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Video"
+    },
+    {
+        "subject": "laptop-a206be12-21fb-4fbf-b40b-4459b1cf4348",
+        "predicate": "isUsedFor",
+        "object": "secourse-511f491d-ea2b-428f-900e-604ea778dab5"
+    },
+    {
+        "subject": "dbcourse-b63a9944-19f6-4f41-bcbd-9333ede86272",
+        "predicate": "http://sonfack.com/2023/12/cao/hasSubject",
+        "object": "teacher-09c4175e-f119-4d66-ac53-920a5c9dc796"
+    },
+    {
+        "subject": "dbcourse-b63a9944-19f6-4f41-bcbd-9333ede86272",
+        "predicate": "http://sonfack.com/2023/12/cao/activityDescription",
+        "object": "This course introduces the database concept to level 1 student"
+    },
+    {
+        "subject": "laptop-bf775e20-71f6-4587-a518-2c0e73fa7470",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "Laptop"
+    },
+    {
+        "subject": "Students",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "Community"
+    },
+    {
+        "subject": "isResponsibleFor",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#domain",
+        "object": "Role"
+    },
+    {
+        "subject": "isResponsibleFor",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#ObjectProperty"
+    },
+    {
+        "subject": "teacher-b4e46cbe-e682-4132-a2d7-ca92e404c216",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "Human"
+    },
+    {
+        "subject": "dbcourse-b63a9944-19f6-4f41-bcbd-9333ede86272",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "DataBase Course"
+    },
+    {
+        "subject": "10AM-f5ee7bc0-fb61-4d4e-9a32-565a5a7df03a",
+        "predicate": "https://w3id.org/MON/time.owl#inXSDDateTime",
+        "object": "2002-05-10T10:00:00"
+    },
+    {
+        "subject": "08AM-10AM-35e7d9ed-4694-48e0-a6b6-394bd4155a13",
+        "predicate": "https://w3id.org/MON/time.owl#hasEnd",
+        "object": "10AM-ee0a6d0b-38a2-4203-b06b-6e551cf6e8a7"
+    },
+    {
+        "subject": "objective-0b6e8fa9-d03d-4636-ab9c-b34578b4ea45",
+        "predicate": "http://sonfack.com/2023/12/cao/objectDescription",
+        "object": " The main  objective of this course is to let students acquire a global vision of projects, provide then with practical tools for anticipating drifts in costs, deadlines and performance of industrial projects"
+    },
+    {
+        "subject": "desktop-b71a8e25-db09-46b4-92a2-fef44f77d87b",
+        "predicate": "isUsedFor",
+        "object": "setutorial-adbef907-11e0-40c1-8dd2-37eb02899ea9"
+    },
+    {
+        "subject": "digital-2d8642f5-f270-4d47-9d3c-8132f4fa2668",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "HTML in 100 Seconds"
+    },
+    {
+        "subject": "dbtutorial-78aca3f8-53fd-4f47-9406-414b493efe19",
+        "predicate": "http://sonfack.com/2023/12/cao/isBeneficialTo",
+        "object": "bsc-09c739e7-2a77-4b4c-9197-cdba96c340dd"
+    },
+    {
+        "subject": "bsc-a00ac66e-e5df-4a66-9691-42d318700616",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "Students"
+    },
+    {
+        "subject": "objective-f4de69e1-e2ba-41a6-a268-803293e73080",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Software engineering course objective"
+    },
+    {
+        "subject": "book-236fb61b-0908-4892-9ded-974bdbf1c653",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Computer architecture"
+    },
+    {
+        "subject": "08AM-10AM-35e7d9ed-4694-48e0-a6b6-394bd4155a13",
+        "predicate": "https://w3id.org/MON/time.owl#hasBeginning",
+        "object": "8AM-04c94b0b-5095-4f06-9f5c-b8f980385df5"
+    },
+    {
+        "subject": "tutoring-75f9b050-39ca-4751-83d0-1298ec31bbdf",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Database tutorial"
+    },
+    {
+        "subject": "book-acca8da0-a675-4e21-bbae-ff60772105d0",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Assembly language"
+    },
+    {
+        "subject": "lecturing-5737c363-39a6-405a-87d1-9f15bee9e464",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Python programming lecture"
+    },
+    {
+        "subject": "dbtutorial-78aca3f8-53fd-4f47-9406-414b493efe19",
+        "predicate": "http://sonfack.com/2023/12/cao/hasDuration",
+        "object": "120"
+    },
+    {
+        "subject": "Electronic",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "http://sonfack.com/2023/12/cao/HardResource"
+    },
+    {
+        "subject": "Management",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "Role"
+    },
+    {
+        "subject": "setutorial-adbef907-11e0-40c1-8dd2-37eb02899ea9",
+        "predicate": "isFollowedBy",
+        "object": "sepractical-88ca540f-fd64-4a3c-92fd-590a12f1f46b"
+    },
+    {
+        "subject": "lecturer-13aa62db-f676-48d5-97dd-8e81b5c70667",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "Teacher"
+    },
+    {
+        "subject": "tutorialObject",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "http://sonfack.com/2023/12/cao/Object"
+    },
+    {
+        "subject": "teacher-b4e46cbe-e682-4132-a2d7-ca92e404c216",
+        "predicate": "hasRole",
+        "object": "lecturer-a5bed203-9120-4d40-b108-6df44a78d3a2"
+    },
+    {
+        "subject": "bsc-410688e8-e5d3-4e9c-9ca4-c28bf92827af",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Bsc 3 students"
+    },
+    {
+        "subject": "8AM-10AM-b139b467-7fbf-4298-9338-fa372b608e5e",
+        "predicate": "https://w3id.org/MON/time.owl#hasBeginning",
+        "object": "8AM-04c94b0b-5095-4f06-9f5c-b8f980385df5"
+    },
+    {
+        "subject": "lecturer-a5bed203-9120-4d40-b108-6df44a78d3a2",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "SE course teacher"
+    },
+    {
+        "subject": "book-236fb61b-0908-4892-9ded-974bdbf1c653",
+        "predicate": "isUsedFor",
+        "object": "pycourse-3f993bf5-1c2f-4f58-b85a-7b6b92bcf64b"
+    },
+    {
+        "subject": "Software",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Software"
+    },
+    {
+        "subject": "bsc-09c739e7-2a77-4b4c-9197-cdba96c340dd",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Bsc 2 students"
+    },
+    {
+        "subject": "tutorialObject",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "classroom-c1a5b39b-992c-49fb-9c7e-a1ffaa92e884",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "CR002"
+    },
+    {
+        "subject": "uicourse-eaf2d283-4eb8-4024-a2c5-539984984fdd",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "User Interface Course"
+    },
+    {
+        "subject": "sepractical-88ca540f-fd64-4a3c-92fd-590a12f1f46b",
+        "predicate": "http://sonfack.com/2023/12/cao/hasRule",
+        "object": "rule-cdc19603-45e5-4c06-8d5a-47624147f67e"
+    },
+    {
+        "subject": "sepractical-88ca540f-fd64-4a3c-92fd-590a12f1f46b",
+        "predicate": "http://sonfack.com/2023/12/cao/hasTime",
+        "object": "10AM-12AM-f4e589a5-aac9-42b7-b498-706732141ca1"
+    },
+    {
+        "subject": "Role",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "http://sonfack.com/2023/12/cao/Governance"
+    },
+    {
+        "subject": "Laptop",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Laptop"
+    },
+    {
+        "subject": "http://sonfack.com/2024/01/tao#",
+        "predicate": "http://purl.org/dc/terms/created",
+        "object": "2023-12-15"
+    },
+    {
+        "subject": "book-5afdf1f7-b15f-450b-be5f-e6e5d0505cb5",
+        "predicate": "isUsedFor",
+        "object": "pmcourse-adee0f07-9e90-412b-95d4-b45d7a7476bb"
+    },
+    {
+        "subject": "Communication",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "http://sonfack.com/2023/12/cao/SoftResource"
+    },
+    {
+        "subject": "objective-ddd7e420-9347-4a53-8f06-d30d3efd8398",
+        "predicate": "http://sonfack.com/2023/12/cao/objectDescription",
+        "object": "This course is intended to introduce Database modeling to level 03 students"
+    },
+    {
+        "subject": "SoftDocument",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "DigitalResource"
+    },
+    {
+        "subject": "objective-9a59e20a-60f0-4798-8895-50f6b79621c5",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "HTML course objective"
+    },
+    {
+        "subject": "secourse-511f491d-ea2b-428f-900e-604ea778dab5",
+        "predicate": "http://sonfack.com/2023/12/cao/hasLocation",
+        "object": "classroom-25eafa60-5f87-4e1f-9609-93bcdcfbb0c9"
+    },
+    {
+        "subject": "teacher-09c4175e-f119-4d66-ac53-920a5c9dc796",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "Human"
+    },
+    {
+        "subject": "8AM-04c94b0b-5095-4f06-9f5c-b8f980385df5",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "https://w3id.org/MON/time.owl#Instant"
+    },
+    {
+        "subject": "tutorialroom-351e99f6-c93b-4377-b987-511652d2eefe",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "TutorialRoom"
+    },
+    {
+        "subject": "seproject-d3e90a3c-f550-45eb-b00e-59a3c6120318",
+        "predicate": "http://sonfack.com/2023/12/cao/isCarriedOutWith",
+        "object": "projector-6579cf57-4d1d-498d-bd51-bbc0caa7105b"
+    },
+    {
+        "subject": "Moral",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "Electronic",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Electronic"
+    },
+    {
+        "subject": "book-5afdf1f7-b15f-450b-be5f-e6e5d0505cb5",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Master project management"
+    },
+    {
+        "subject": "lecturer-9cc8c82a-a80e-4edc-a50d-771413af9ee0",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "UI course teacher"
+    },
+    {
+        "subject": "practical-fa779b89-5ec8-48f1-b5c3-bda3968382ca",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Python programming practical"
+    },
+    {
+        "subject": "8AM-04c94b0b-5095-4f06-9f5c-b8f980385df5",
+        "predicate": "https://w3id.org/MON/time.owl#inXSDDateTime",
+        "object": "2002-05-09T08:00:00"
+    },
+    {
+        "subject": "Organization",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "Moral"
+    },
+    {
+        "subject": "supervisor-1339002e-3ef1-4e12-8eec-8feff0a82a67",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Python project supervisor"
+    },
+    {
+        "subject": "isFoundIn",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#TransitiveProperty"
+    },
+    {
+        "subject": "pycourse-3f993bf5-1c2f-4f58-b85a-7b6b92bcf64b",
+        "predicate": "http://sonfack.com/2023/12/cao/activityDescription",
+        "object": "This course introduces the python programming to level 1 student"
+    },
+    {
+        "subject": "teacher-39c687e2-5671-4ade-90b1-8f1c45096ea9",
+        "predicate": "hasRole",
+        "object": "lecturer-9cc8c82a-a80e-4edc-a50d-771413af9ee0"
+    },
+    {
+        "subject": "software-7b5f05b1-0701-43bb-ad0f-a98a27dc9312",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "DigitalResource"
+    },
+    {
+        "subject": "digital-ab422ef5-9bd5-451f-8ab7-9274ffdf5739",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "DigitalResource"
+    },
+    {
+        "subject": "Desktop",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Desktop"
+    },
+    {
+        "subject": "objective-f4de69e1-e2ba-41a6-a268-803293e73080",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "SE course objective"
+    },
+    {
+        "subject": "laptop-a206be12-21fb-4fbf-b40b-4459b1cf4348",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Lenovo laptop"
+    },
+    {
+        "subject": "teacher-270696cb-b304-42d7-91d9-694e5e8c0a7b",
+        "predicate": "hasRole",
+        "object": "itunithead-d89141ba-4b2d-41e4-b1a5-65bc2d409817"
+    },
+    {
+        "subject": "PracticalRoom",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "http://sonfack.com/2024/01/tao#",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Ontology"
+    },
+    {
+        "subject": "8AM-10AM-b139b467-7fbf-4298-9338-fa372b608e5e",
+        "predicate": "https://w3id.org/MON/time.owl#hasEnd",
+        "object": "10AM-ee0a6d0b-38a2-4203-b06b-6e551cf6e8a7"
+    },
+    {
+        "subject": "objective-284ef78c-99f5-45f0-935a-553678664616",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "SE project objective"
+    },
+    {
+        "subject": "Moral",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Moral subject"
+    },
+    {
+        "subject": "Computer",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "Electronic"
+    },
+    {
+        "subject": "secourse-511f491d-ea2b-428f-900e-604ea778dab5",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Software Engineering Course"
+    },
+    {
+        "subject": "12AM-6ec5a9a1-54b9-4310-96f4-9ecbdbf8344f",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "https://w3id.org/MON/time.owl#Instant"
+    },
+    {
+        "subject": "secourse-511f491d-ea2b-428f-900e-604ea778dab5",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "CSC 1003"
+    },
+    {
+        "subject": "Video",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "HardDocument",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "sepractical-88ca540f-fd64-4a3c-92fd-590a12f1f46b",
+        "predicate": "http://sonfack.com/2023/12/cao/isBeneficialTo",
+        "object": "bsc-410688e8-e5d3-4e9c-9ca4-c28bf92827af"
+    },
+    {
+        "subject": "Human",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "Physical"
+    },
+    {
+        "subject": "uicourse-eaf2d283-4eb8-4024-a2c5-539984984fdd",
+        "predicate": "http://sonfack.com/2023/12/cao/isComposedOf",
+        "object": "lecturing-5923c0c5-fe15-4cf9-8dc1-e3f5e73ba02a"
+    },
+    {
+        "subject": "bsc-a00ac66e-e5df-4a66-9691-42d318700616",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Bsc year 1"
+    },
+    {
+        "subject": "seproject-d3e90a3c-f550-45eb-b00e-59a3c6120318",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "CSC 1005"
+    },
+    {
+        "subject": "ClassRoom",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "Building"
+    },
+    {
+        "subject": "objective-9a59e20a-60f0-4798-8895-50f6b79621c5",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "HTML course objective"
+    },
+    {
+        "subject": "http://sonfack.com/2024/01/tao#",
+        "predicate": "http://purl.org/dc/elements/1.1/description",
+        "object": "This ontology extends the core activity ontology (CAO) and defines concepts and their relations to represent teaching activities knowledge within an organization."
+    },
+    {
+        "subject": "Moral",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Moral subject of an activity"
+    },
+    {
+        "subject": "lecturing-12b5c207-f470-4bf3-bb3d-e6b31c954954",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Project management lecture"
+    },
+    {
+        "subject": "sepractical-88ca540f-fd64-4a3c-92fd-590a12f1f46b",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Software Engineering Practical"
+    },
+    {
+        "subject": "laptop-a0268cf3-8b2b-4f83-a467-eefe3a392639",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "Laptop"
+    },
+    {
+        "subject": "teacher-f6f76647-ad40-4a4e-93c0-6840ccec87d3",
+        "predicate": "hasRole",
+        "object": "tutor-e4449e8b-a090-4652-9b91-231d9e7a070a"
+    },
+    {
+        "subject": "tutor-c502603b-7818-4b1f-9c62-83986bfb17bf",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "Teacher"
+    },
+    {
+        "subject": "isFollowedBy",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#TransitiveProperty"
+    },
+    {
+        "subject": "TeachingStaff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "Community"
+    },
+    {
+        "subject": "Software",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "10AM-12AM-f4e589a5-aac9-42b7-b498-706732141ca1",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "https://w3id.org/MON/time.owl#Interval"
+    },
+    {
+        "subject": "8AM-10AM-1470781d-1128-4f43-ab61-4088953f071a",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "https://w3id.org/MON/time.owl#Interval"
+    },
+    {
+        "subject": "teachingObject",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "Community",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Community subject of an activity"
+    },
+    {
+        "subject": "lecturing-12b5c207-f470-4bf3-bb3d-e6b31c954954",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://sonfack.com/2023/12/cao/Action"
+    },
+    {
+        "subject": "8AM-10AM-1470781d-1128-4f43-ab61-4088953f071a",
+        "predicate": "https://w3id.org/MON/time.owl#hasBeginning",
+        "object": "8AM-7cc55976-df08-47d5-a37f-cfc9b7c04f85"
+    },
+    {
+        "subject": "DigitalResource",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "http://sonfack.com/2023/12/cao/SoftResource"
+    },
+    {
+        "subject": "objective-59c2099d-746e-4872-bbc1-ea0891430f47",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Database tutorial objective"
+    },
+    {
+        "subject": "8AM-a1285744-ddb3-4875-8e77-ed1a7033ccd2",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "https://w3id.org/MON/time.owl#Instant"
+    },
+    {
+        "subject": "book-b4d784d0-8be6-473f-a4cc-3c5ff8a80b6d",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Introduction to MYSQL"
+    },
+    {
+        "subject": "10AM-b1f89d0f-6774-4ff6-838e-bf9738c1ff9a",
+        "predicate": "https://w3id.org/MON/time.owl#inXSDDateTime",
+        "object": "2002-05-08T10:00:00"
+    },
+    {
+        "subject": "Organization",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "lecturer-c83b7873-f908-484d-a044-2802814f87d1",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "DB course teacher"
+    },
+    {
+        "subject": "SoftDocument",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Soft Document"
+    },
+    {
+        "subject": "book-b4d784d0-8be6-473f-a4cc-3c5ff8a80b6d",
+        "predicate": "isUsedFor",
+        "object": "dbcourse-b63a9944-19f6-4f41-bcbd-9333ede86272"
+    },
+    {
+        "subject": "uicourse-eaf2d283-4eb8-4024-a2c5-539984984fdd",
+        "predicate": "http://sonfack.com/2023/12/cao/hasObjectiveive",
+        "object": "objective-9a59e20a-60f0-4798-8895-50f6b79621c5"
+    },
+    {
+        "subject": "uicourse-eaf2d283-4eb8-4024-a2c5-539984984fdd",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "CSC 1006"
+    },
+    {
+        "subject": "lecturer-13aa62db-f676-48d5-97dd-8e81b5c70667",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Project management teacher"
+    },
+    {
+        "subject": "desktop-b71a8e25-db09-46b4-92a2-fef44f77d87b",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "IBM desktop computer"
+    },
+    {
+        "subject": "isFollowedBy",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#domain",
+        "object": "http://sonfack.com/2023/12/cao/Activity"
+    },
+    {
+        "subject": "Computer",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Computer"
+    },
+    {
+        "subject": "lecturing-5737c363-39a6-405a-87d1-9f15bee9e464",
+        "predicate": "http://sonfack.com/2023/12/cao/isCarriedOutBy",
+        "object": "teacher-45b1d68b-d33c-4eaf-93af-7c44f8ef3fa8"
+    },
+    {
+        "subject": "laptop-bf775e20-71f6-4587-a518-2c0e73fa7470",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "HP laptop"
+    },
+    {
+        "subject": "Tutor",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Tuto role "
+    },
+    {
+        "subject": "pmcourse-adee0f07-9e90-412b-95d4-b45d7a7476bb",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "PM 1001"
+    },
+    {
+        "subject": "tutoring-75f9b050-39ca-4751-83d0-1298ec31bbdf",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://sonfack.com/2023/12/cao/Action"
+    },
+    {
+        "subject": "isFollowedBy",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "is followed by"
+    },
+    {
+        "subject": "setutorial-adbef907-11e0-40c1-8dd2-37eb02899ea9",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Software Engineering Tutorial"
+    },
+    {
+        "subject": "setutorial-adbef907-11e0-40c1-8dd2-37eb02899ea9",
+        "predicate": "http://sonfack.com/2023/12/cao/hasBeginTime",
+        "object": "10AM-0fbdca75-5c06-4a88-9181-ee1a035a7fec"
+    },
+    {
+        "subject": "tutoring-bb6311ad-c7a3-412c-84f1-4f5cf76b4a75",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Software Engineering tutorial"
+    },
+    {
+        "subject": "book-236fb61b-0908-4892-9ded-974bdbf1c653",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "HardDocument"
+    },
+    {
+        "subject": "pmcourse-adee0f07-9e90-412b-95d4-b45d7a7476bb",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://sonfack.com/2023/12/cao/Activity"
+    },
+    {
+        "subject": "classroom-c1a5b39b-992c-49fb-9c7e-a1ffaa92e884",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "ClassRoom"
+    },
+    {
+        "subject": "digital-f76fbf2e-b9a1-46ec-b446-b76389636810",
+        "predicate": "isUsedFor",
+        "object": "dbcourse-b63a9944-19f6-4f41-bcbd-9333ede86272"
+    },
+    {
+        "subject": "seproject-d3e90a3c-f550-45eb-b00e-59a3c6120318",
+        "predicate": "http://sonfack.com/2023/12/cao/hasObjective",
+        "object": "objective-284ef78c-99f5-45f0-935a-553678664616"
+    },
+    {
+        "subject": "setutorial-adbef907-11e0-40c1-8dd2-37eb02899ea9",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "CSC 1023"
+    },
+    {
+        "subject": "isUsedFor",
+        "predicate": "http://www.w3.org/2002/07/owl#inverseOf",
+        "object": "http://sonfack.com/2023/12/cao/isCarriedOutWith"
+    },
+    {
+        "subject": "book-b2806065-7423-429f-bddd-b2208121325f",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Python programming for intermediate"
+    },
+    {
+        "subject": "digital-ab422ef5-9bd5-451f-8ab7-9274ffdf5739",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Introduction to sofware engineering"
+    },
+    {
+        "subject": "n927d784dca9b43d1aa4b6f0e710d6c06b1",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#rest",
+        "object": "n927d784dca9b43d1aa4b6f0e710d6c06b2"
+    },
+    {
+        "subject": "10AM-12AM-f4e589a5-aac9-42b7-b498-706732141ca1",
+        "predicate": "https://w3id.org/MON/time.owl#hasBeginning",
+        "object": "10AM-0fbdca75-5c06-4a88-9181-ee1a035a7fec"
+    },
+    {
+        "subject": "tutor-e4449e8b-a090-4652-9b91-231d9e7a070a",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "SE tutorial teacher"
+    },
+    {
+        "subject": "sepractical-88ca540f-fd64-4a3c-92fd-590a12f1f46b",
+        "predicate": "http://sonfack.com/2023/12/cao/hasObjective",
+        "object": "objective-f4de69e1-e2ba-41a6-a268-803293e73080"
+    },
+    {
+        "subject": "lecturing-5923c0c5-fe15-4cf9-8dc1-e3f5e73ba02a",
+        "predicate": "http://sonfack.com/2023/12/cao/isCarriedOutBy",
+        "object": "teacher-39c687e2-5671-4ade-90b1-8f1c45096ea9"
+    },
+    {
+        "subject": "teacher-019b097e-7eb4-4338-a2f5-f326477d7d20",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "Human"
+    },
+    {
+        "subject": "projectObject",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "projects objective"
+    },
+    {
+        "subject": "objective-0b6e8fa9-d03d-4636-ab9c-b34578b4ea45",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "teachingObject"
+    },
+    {
+        "subject": "digital-8df1b194-5e61-489b-ab31-366843c55775",
+        "predicate": "isUsedFor",
+        "object": "pypractical-f18f0361-3f12-4b3d-9459-ce2a019b4668"
+    },
+    {
+        "subject": "objective-ddd7e420-9347-4a53-8f06-d30d3efd8398",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Database course objective"
+    },
+    {
+        "subject": "objective-284ef78c-99f5-45f0-935a-553678664616",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "projectObject"
+    },
+    {
+        "subject": "secourse-511f491d-ea2b-428f-900e-604ea778dab5",
+        "predicate": "http://sonfack.com/2023/12/cao/isComposedOf",
+        "object": "lecturing-14868c21-cca2-436b-9ccc-23c411ab22ca"
+    },
+    {
+        "subject": "supervision-b45158d0-f812-4ee9-976b-809df57824f2",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://sonfack.com/2023/12/cao/Action"
+    },
+    {
+        "subject": "seproject-d3e90a3c-f550-45eb-b00e-59a3c6120318",
+        "predicate": "http://sonfack.com/2023/12/cao/isComposedOf",
+        "object": "supervision-b45158d0-f812-4ee9-976b-809df57824f2"
+    },
+    {
+        "subject": "TutorialRoom",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "Building"
+    },
+    {
+        "subject": "TeachingMaterial",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Teaching Material"
+    },
+    {
+        "subject": "10AM-12AM-6ab82d7d-72dc-40f2-a209-8bc6b4bb04e7",
+        "predicate": "https://w3id.org/MON/time.owl#hasBeginning",
+        "object": "10AM-b1f89d0f-6774-4ff6-838e-bf9738c1ff9a"
+    },
+    {
+        "subject": "isResponsibleFor",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "A role is responsible of an activity"
+    },
+    {
+        "subject": "http://sonfack.com/2024/01/tao#",
+        "predicate": "http://purl.org/dc/terms/creator",
+        "object": "https://orcid.org/0000-0002-6085-6818"
+    },
+    {
+        "subject": "projectObject",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "http://sonfack.com/2023/12/cao/Object"
+    },
+    {
+        "subject": "pycourse-3f993bf5-1c2f-4f58-b85a-7b6b92bcf64b",
+        "predicate": "http://sonfack.com/2023/12/cao/isComposedOf",
+        "object": "lecturing-5737c363-39a6-405a-87d1-9f15bee9e464"
+    },
+    {
+        "subject": "teacher-09c4175e-f119-4d66-ac53-920a5c9dc796",
+        "predicate": "hasRole",
+        "object": "lecturer-c83b7873-f908-484d-a044-2802814f87d1"
+    },
+    {
+        "subject": "objective-0b6e8fa9-d03d-4636-ab9c-b34578b4ea45",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Project management course objective"
+    },
+    {
+        "subject": "lecturing-14868c21-cca2-436b-9ccc-23c411ab22ca",
+        "predicate": "http://sonfack.com/2023/12/cao/isCarriedOutBy",
+        "object": "teacher-b4e46cbe-e682-4132-a2d7-ca92e404c216"
+    },
+    {
+        "subject": "8AM-10AM-0ea7a574-e6be-4dc7-abe1-85a6b8ce2e3d",
+        "predicate": "https://w3id.org/MON/time.owl#hasEndT",
+        "object": "10AM-f5ee7bc0-fb61-4d4e-9a32-565a5a7df03a"
+    },
+    {
+        "subject": "sepractical-88ca540f-fd64-4a3c-92fd-590a12f1f46b",
+        "predicate": "http://sonfack.com/2023/12/cao/isCarriedOutWith",
+        "object": "projector-6579cf57-4d1d-498d-bd51-bbc0caa7105b"
+    },
+    {
+        "subject": "projectObject",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "teachingObject",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "teaching objective"
+    },
+    {
+        "subject": "http://sonfack.com/2024/01/tao#",
+        "predicate": "http://purl.org/dc/elements/1.1/title",
+        "object": "Teaching Activity Ontology"
+    },
+    {
+        "subject": "isFollowedBy",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "An activity is followed by another activity"
+    },
+    {
+        "subject": "itunithead-d89141ba-4b2d-41e4-b1a5-65bc2d409817",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "Management"
+    },
+    {
+        "subject": "book-b2806065-7423-429f-bddd-b2208121325f",
+        "predicate": "isUsedFor",
+        "object": "pycourse-3f993bf5-1c2f-4f58-b85a-7b6b92bcf64b"
+    },
+    {
+        "subject": "Physical",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "http://sonfack.com/2023/12/cao/Subject"
+    },
+    {
+        "subject": "objective-59c2099d-746e-4872-bbc1-ea0891430f47",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "DB tutorial objective"
+    },
+    {
+        "subject": "Human",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "isUsedFor",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#domain",
+        "object": "http://sonfack.com/2023/12/cao/Resource"
+    },
+    {
+        "subject": "pypractical-f18f0361-3f12-4b3d-9459-ce2a019b4668",
+        "predicate": "http://sonfack.com/2023/12/cao/isCarriedOutWith",
+        "object": "digital-8df1b194-5e61-489b-ab31-366843c55775"
+    },
+    {
+        "subject": "10AM-12AM-6ab82d7d-72dc-40f2-a209-8bc6b4bb04e7",
+        "predicate": "https://w3id.org/MON/time.owl#hasEnd",
+        "object": "12AM-1461e790-cd81-4f7b-96dc-3a2431e32eb0"
+    },
+    {
+        "subject": "n927d784dca9b43d1aa4b6f0e710d6c06b2",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#first",
+        "object": "isResponsibleFor"
+    },
+    {
+        "subject": "dbcourse-b63a9944-19f6-4f41-bcbd-9333ede86272",
+        "predicate": "http://sonfack.com/2023/12/cao/hasObjective",
+        "object": "objective-ddd7e420-9347-4a53-8f06-d30d3efd8398"
+    },
+    {
+        "subject": "Building",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "A geographical located building"
+    },
+    {
+        "subject": "Tutor",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "Operator"
+    },
+    {
+        "subject": "TopManagement",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "TopManagement role "
+    },
+    {
+        "subject": "laptop-a0268cf3-8b2b-4f83-a467-eefe3a392639",
+        "predicate": "isUsedFor",
+        "object": "pycourse-3f993bf5-1c2f-4f58-b85a-7b6b92bcf64b"
+    },
+    {
+        "subject": "uicourse-eaf2d283-4eb8-4024-a2c5-539984984fdd",
+        "predicate": "http://sonfack.com/2023/12/cao/hasSubject",
+        "object": "teacher-39c687e2-5671-4ade-90b1-8f1c45096ea9"
+    },
+    {
+        "subject": "uicourse-eaf2d283-4eb8-4024-a2c5-539984984fdd",
+        "predicate": "http://sonfack.com/2023/12/cao/hasLocation",
+        "object": "classroom-9b1749fc-8ce7-42ce-89d6-4e7ff8b826c7"
+    },
+    {
+        "subject": "tutor-c502603b-7818-4b1f-9c62-83986bfb17bf",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "DB tutorial teacher"
+    },
+    {
+        "subject": "practical-4f989887-eb53-431f-b188-c9662a042f51",
+        "predicate": "isResponsibleFor",
+        "object": "sepractical-88ca540f-fd64-4a3c-92fd-590a12f1f46b"
+    },
+    {
+        "subject": "Organization",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Organization subject of an activity"
+    },
+    {
+        "subject": "AdministrativeStaff",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "dbcourse-b63a9944-19f6-4f41-bcbd-9333ede86272",
+        "predicate": "http://sonfack.com/2023/12/cao/isCarriedOutWith",
+        "object": "laptop-a0268cf3-8b2b-4f83-a467-eefe3a392639"
+    },
+    {
+        "subject": "dbcourse-b63a9944-19f6-4f41-bcbd-9333ede86272",
+        "predicate": "http://sonfack.com/2023/12/cao/isComposedOf",
+        "object": "lecturing-9246b9e2-d557-4869-885a-c541257280eb"
+    },
+    {
+        "subject": "objective-9a59e20a-60f0-4798-8895-50f6b79621c5",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "teachingObject"
+    },
+    {
+        "subject": "bsc-09c739e7-2a77-4b4c-9197-cdba96c340dd",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Bsc year 2"
+    },
+    {
+        "subject": "http://sonfack.com/2024/01/tao#",
+        "predicate": "http://purl.org/dc/terms/creator",
+        "object": "mailto:sss.sonfack@gmail.com"
+    },
+    {
+        "subject": "isUsedFor",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "is used for"
+    },
+    {
+        "subject": "hasRole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "A subject has role a role"
+    },
+    {
+        "subject": "rule-cdc19603-45e5-4c06-8d5a-47624147f67e",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://sonfack.com/2023/12/cao/Rule"
+    },
+    {
+        "subject": "book-b4d784d0-8be6-473f-a4cc-3c5ff8a80b6d",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "HardDocument"
+    },
+    {
+        "subject": "pypractical-f18f0361-3f12-4b3d-9459-ce2a019b4668",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "CSC 1011"
+    },
+    {
+        "subject": "dbcourse-b63a9944-19f6-4f41-bcbd-9333ede86272",
+        "predicate": "isFollowedBy",
+        "object": "dbtutorial-78aca3f8-53fd-4f47-9406-414b493efe19"
+    },
+    {
+        "subject": "computerroom-9cd6c49c-e52f-48ef-9d23-d868af4802c4",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "PracticalRoom"
+    },
+    {
+        "subject": "TeachingStaff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Teaching staff"
+    },
+    {
+        "subject": "pmcourse-adee0f07-9e90-412b-95d4-b45d7a7476bb",
+        "predicate": "http://sonfack.com/2023/12/cao/hasObjective",
+        "object": "objective-0b6e8fa9-d03d-4636-ab9c-b34578b4ea45"
+    },
+    {
+        "subject": "setutorial-adbef907-11e0-40c1-8dd2-37eb02899ea9",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://sonfack.com/2023/12/cao/Activity"
+    },
+    {
+        "subject": "lecturing-5737c363-39a6-405a-87d1-9f15bee9e464",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://sonfack.com/2023/12/cao/Action"
+    },
+    {
+        "subject": "digital-ab422ef5-9bd5-451f-8ab7-9274ffdf5739",
+        "predicate": "isUsedFor",
+        "object": "secourse-511f491d-ea2b-428f-900e-604ea778dab5"
+    },
+    {
+        "subject": "classroom-b2c326d0-8551-41c4-aee5-11365e117523",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "CR001"
+    },
+    {
+        "subject": "digital-8df1b194-5e61-489b-ab31-366843c55775",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Learn Python - Full Course for Beginners"
+    },
+    {
+        "subject": "secourse-511f491d-ea2b-428f-900e-604ea778dab5",
+        "predicate": "http://sonfack.com/2023/12/cao/activityDescription",
+        "object": "This course introduces software engineering to level 1 student"
+    },
+    {
+        "subject": "teacher-270696cb-b304-42d7-91d9-694e5e8c0a7b",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "Human"
+    },
+    {
+        "subject": "10AM-f5ee7bc0-fb61-4d4e-9a32-565a5a7df03a",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "https://w3id.org/MON/time.owl#Instant"
+    },
+    {
+        "subject": "teacher-9e1c2630-6a90-43b3-bcd8-639079d43f4a",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "Human"
+    },
+    {
+        "subject": "pmcourse-adee0f07-9e90-412b-95d4-b45d7a7476bb",
+        "predicate": "http://sonfack.com/2023/12/cao/isComposedOf",
+        "object": "lecturing-12b5c207-f470-4bf3-bb3d-e6b31c954954"
+    },
+    {
+        "subject": "book-5afdf1f7-b15f-450b-be5f-e6e5d0505cb5",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "HardDocument"
+    },
+    {
+        "subject": "pycourse-3f993bf5-1c2f-4f58-b85a-7b6b92bcf64b",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Python Course"
+    },
+    {
+        "subject": "classroom-b2c326d0-8551-41c4-aee5-11365e117523",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "ClassRoom"
+    },
+    {
+        "subject": "Physical",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Physical subject"
+    },
+    {
+        "subject": "dbtutorial-78aca3f8-53fd-4f47-9406-414b493efe19",
+        "predicate": "http://sonfack.com/2023/12/cao/hasObjective",
+        "object": "objective-59c2099d-746e-4872-bbc1-ea0891430f47"
+    },
+    {
+        "subject": "digital-9840998a-2a10-46c4-a1d8-b7262bb88c76",
+        "predicate": "isUsedFor",
+        "object": "dbcourse-b63a9944-19f6-4f41-bcbd-9333ede86272"
+    },
+    {
+        "subject": "digital-f76fbf2e-b9a1-46ec-b446-b76389636810",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "SoftDocument"
+    },
+    {
+        "subject": "pmcourse-adee0f07-9e90-412b-95d4-b45d7a7476bb",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Project Management Course"
+    },
+    {
+        "subject": "pycourse-3f993bf5-1c2f-4f58-b85a-7b6b92bcf64b",
+        "predicate": "http://sonfack.com/2023/12/cao/hasLocation",
+        "object": "computerroom-5a2454c8-c664-401c-86b7-425e75dddc39"
+    },
+    {
+        "subject": "dbtutorial-78aca3f8-53fd-4f47-9406-414b493efe19",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "CSC 1022"
+    },
+    {
+        "subject": "book-9d0de03c-dcc8-4a6c-8dd3-3b921cba2d1b",
+        "predicate": "isUsedFor",
+        "object": "pycourse-3f993bf5-1c2f-4f58-b85a-7b6b92bcf64b"
+    },
+    {
+        "subject": "isResponsibleFor",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#range",
+        "object": "http://sonfack.com/2023/12/cao/Activity"
+    },
+    {
+        "subject": "8AM-10AM-0ea7a574-e6be-4dc7-abe1-85a6b8ce2e3d",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "https://w3id.org/MON/time.owl#Interval"
+    },
+    {
+        "subject": "Communication",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Communication"
+    },
+    {
+        "subject": "pmcourse-adee0f07-9e90-412b-95d4-b45d7a7476bb",
+        "predicate": "http://sonfack.com/2023/12/cao/isBeneficialTo",
+        "object": "bsc-410688e8-e5d3-4e9c-9ca4-c28bf92827af"
+    },
+    {
+        "subject": "sepractical-88ca540f-fd64-4a3c-92fd-590a12f1f46b",
+        "predicate": "isFollowedBy",
+        "object": "seproject-d3e90a3c-f550-45eb-b00e-59a3c6120318"
+    },
+    {
+        "subject": "HardDocument",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "http://sonfack.com/2023/12/cao/HardResource"
+    },
+    {
+        "subject": "pypractical-f18f0361-3f12-4b3d-9459-ce2a019b4668",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://sonfack.com/2023/12/cao/Activity"
+    },
+    {
+        "subject": "Students",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Students"
+    },
+    {
+        "subject": "objective-f4de69e1-e2ba-41a6-a268-803293e73080",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "teachingObject"
+    },
+    {
+        "subject": "software-7b5f05b1-0701-43bb-ad0f-a98a27dc9312",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "MySQL 8.0"
+    },
+    {
+        "subject": "teacher-45b1d68b-d33c-4eaf-93af-7c44f8ef3fa8",
+        "predicate": "hasRole",
+        "object": "lecturer-1c787fcc-3ef9-43c6-bfa3-f05823b50645"
+    },
+    {
+        "subject": "bsc-09c739e7-2a77-4b4c-9197-cdba96c340dd",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "Students"
+    },
+    {
+        "subject": "teacher-a90e1d36-c79f-47f1-a2b5-c805266e2bcc",
+        "predicate": "hasRole",
+        "object": "supervisor-accb038e-58dd-4967-9ab1-2648fcdc5e5e"
+    },
+    {
+        "subject": "Automaton",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "Physical"
+    },
+    {
+        "subject": "isFollowedBy",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#range",
+        "object": "http://sonfack.com/2023/12/cao/Activity"
+    },
+    {
+        "subject": "ClassRoom",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "A geographical located classroom"
+    },
+    {
+        "subject": "achieves",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#range",
+        "object": "http://sonfack.com/2023/12/cao/Activity"
+    },
+    {
+        "subject": "classroom-3414ff41-3e7a-44de-a679-baac1ab873c2",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "ClassRoom"
+    },
+    {
+        "subject": "10AM-0fbdca75-5c06-4a88-9181-ee1a035a7fec",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "https://w3id.org/MON/time.owl#Instant"
+    },
+    {
+        "subject": "teacher-f6f76647-ad40-4a4e-93c0-6840ccec87d3",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "Human"
+    },
+    {
+        "subject": "digital-9840998a-2a10-46c4-a1d8-b7262bb88c76",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Begining database with MySQL"
+    },
+    {
+        "subject": "desktop-b71a8e25-db09-46b4-92a2-fef44f77d87b",
+        "predicate": "isUsedFor",
+        "object": "pypractical-f18f0361-3f12-4b3d-9459-ce2a019b4668"
+    },
+    {
+        "subject": "desktop-b71a8e25-db09-46b4-92a2-fef44f77d87b",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "Desktop"
+    },
+    {
+        "subject": "uicourse-eaf2d283-4eb8-4024-a2c5-539984984fdd",
+        "predicate": "http://sonfack.com/2023/12/cao/isBeneficialTo",
+        "object": "bsc-a00ac66e-e5df-4a66-9691-42d318700616"
+    },
+    {
+        "subject": "http://sonfack.com/2024/01/tao#",
+        "predicate": "http://purl.org/dc/elements/1.1/licence",
+        "object": ""
+    },
+    {
+        "subject": "pypractical-f18f0361-3f12-4b3d-9459-ce2a019b4668",
+        "predicate": "http://sonfack.com/2023/12/cao/hasLocation",
+        "object": "computerroom-5a2454c8-c664-401c-86b7-425e75dddc39"
+    },
+    {
+        "subject": "objective-f4de69e1-e2ba-41a6-a268-803293e73080",
+        "predicate": "http://sonfack.com/2023/12/cao/objectDescription",
+        "object": "This course will enable level 03 students to systematic procedures  large-scale softwares so that their specifications correspond to the real needs of the customers"
+    },
+    {
+        "subject": "Automaton",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "projector-6579cf57-4d1d-498d-bd51-bbc0caa7105b",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "Projector"
+    },
+    {
+        "subject": "dbtutorial-78aca3f8-53fd-4f47-9406-414b493efe19",
+        "predicate": "http://sonfack.com/2023/12/cao/activityDescription",
+        "object": "This tutorial answers database question to level 1 student"
+    },
+    {
+        "subject": "book-0626b11e-a0d8-4eab-9485-4d42a51e8581",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "HardDocument"
+    },
+    {
+        "subject": "8AM-7cc55976-df08-47d5-a37f-cfc9b7c04f85",
+        "predicate": "http://sonfack.com/2023/12/cao/inXSDDateTime",
+        "object": "2002-05-06T08:00:00"
+    },
+    {
+        "subject": "PracticalRoom",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "A geographical located practicalroom"
+    },
+    {
+        "subject": "Automaton",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Automaton subject"
+    },
+    {
+        "subject": "pycourse-3f993bf5-1c2f-4f58-b85a-7b6b92bcf64b",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://sonfack.com/2023/12/cao/Activity"
+    },
+    {
+        "subject": "objective-969f073e-1e01-4ad0-a0f0-fb806ba5a50e",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Python course objective"
+    },
+    {
+        "subject": "10AM-b1f89d0f-6774-4ff6-838e-bf9738c1ff9a",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "https://w3id.org/MON/time.owl#Instant"
+    },
+    {
+        "subject": "Operator",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Operator role "
+    },
+    {
+        "subject": "Management",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Management role "
+    },
+    {
+        "subject": "Desktop",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "Desktop",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "Computer"
+    },
+    {
+        "subject": "secourse-511f491d-ea2b-428f-900e-604ea778dab5",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://sonfack.com/2023/12/cao/Activity"
+    },
+    {
+        "subject": "SoftDocument",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "tutorialroom-351e99f6-c93b-4377-b987-511652d2eefe",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "TR002"
+    },
+    {
+        "subject": "uicourse-eaf2d283-4eb8-4024-a2c5-539984984fdd",
+        "predicate": "http://sonfack.com/2023/12/cao/hasLocation",
+        "object": "computerroom-9cd6c49c-e52f-48ef-9d23-d868af4802c4"
+    },
+    {
+        "subject": "10AM-12AM-6ab82d7d-72dc-40f2-a209-8bc6b4bb04e7",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "https://w3id.org/MON/time.owl#Interval"
+    },
+    {
+        "subject": "book-9d0de03c-dcc8-4a6c-8dd3-3b921cba2d1b",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "HardDocument"
+    },
+    {
+        "subject": "lecturer-1c787fcc-3ef9-43c6-bfa3-f05823b50645",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Python course teacher"
+    },
+    {
+        "subject": "Community",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Community subject"
+    },
+    {
+        "subject": "dbcourse-b63a9944-19f6-4f41-bcbd-9333ede86272",
+        "predicate": "hasLocation",
+        "object": "classroom-b2c326d0-8551-41c4-aee5-11365e117523"
+    },
+    {
+        "subject": "laptop-bf775e20-71f6-4587-a518-2c0e73fa7470",
+        "predicate": "isUsedFor",
+        "object": "dbcourse-b63a9944-19f6-4f41-bcbd-9333ede86272"
+    },
+    {
+        "subject": "secourse-511f491d-ea2b-428f-900e-604ea778dab5",
+        "predicate": "isFollowedBy",
+        "object": "setutorial-adbef907-11e0-40c1-8dd2-37eb02899ea9"
+    },
+    {
+        "subject": "setutorial-adbef907-11e0-40c1-8dd2-37eb02899ea9",
+        "predicate": "http://sonfack.com/2023/12/cao/isComposedOf",
+        "object": "tutoring-bb6311ad-c7a3-412c-84f1-4f5cf76b4a75"
+    },
+    {
+        "subject": "Projector",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "DigitalResource",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Digital Resource"
+    },
+    {
+        "subject": "isUsedFor",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "A resource is used for an activity"
+    },
+    {
+        "subject": "pycourse-3f993bf5-1c2f-4f58-b85a-7b6b92bcf64b",
+        "predicate": "http://sonfack.com/2023/12/cao/hasObjective",
+        "object": "objective-969f073e-1e01-4ad0-a0f0-fb806ba5a50e"
+    },
+    {
+        "subject": "tutor-e4449e8b-a090-4652-9b91-231d9e7a070a",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "Tutor"
+    },
+    {
+        "subject": "Video",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "DigitalResource"
+    },
+    {
+        "subject": "practical-fa779b89-5ec8-48f1-b5c3-bda3968382ca",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://sonfack.com/2023/12/cao/Action"
+    },
+    {
+        "subject": "tutorialroom-57179062-99d4-4da0-88b4-e800809fac73",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "TR001"
+    },
+    {
+        "subject": "sepractical-88ca540f-fd64-4a3c-92fd-590a12f1f46b",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "CSC 1013"
+    },
+    {
+        "subject": "Physical",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "teacher-a90e1d36-c79f-47f1-a2b5-c805266e2bcc",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "Human"
+    },
+    {
+        "subject": "n927d784dca9b43d1aa4b6f0e710d6c06b1",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#first",
+        "object": "hasRole"
+    },
+    {
+        "subject": "lecturing-12b5c207-f470-4bf3-bb3d-e6b31c954954",
+        "predicate": "http://sonfack.com/2023/12/cao/isCarriedOutBy",
+        "object": "teacher-270696cb-b304-42d7-91d9-694e5e8c0a7b"
+    },
+    {
+        "subject": "isFoundIn",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#domain",
+        "object": "http://sonfack.com/2023/12/cao/Location"
+    },
+    {
+        "subject": "objective-284ef78c-99f5-45f0-935a-553678664616",
+        "predicate": "http://sonfack.com/2023/12/cao/objectDescription",
+        "object": "This project monitoring will enable level 03 students to ask question and gain support on their software engineering project"
+    },
+    {
+        "subject": "tutorialroom-57179062-99d4-4da0-88b4-e800809fac73",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "TutorialRoom"
+    },
+    {
+        "subject": "seproject-d3e90a3c-f550-45eb-b00e-59a3c6120318",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Software Engineering Project"
+    },
+    {
+        "subject": "pypractical-f18f0361-3f12-4b3d-9459-ce2a019b4668",
+        "predicate": "http://sonfack.com/2023/12/cao/hasTime",
+        "object": "8AM-10AM-1470781d-1128-4f43-ab61-4088953f071a"
+    },
+    {
+        "subject": "classroom-3414ff41-3e7a-44de-a679-baac1ab873c2",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "CR005"
+    },
+    {
+        "subject": "Projector",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "Electronic"
+    },
+    {
+        "subject": "pypractical-f18f0361-3f12-4b3d-9459-ce2a019b4668",
+        "predicate": "http://sonfack.com/2023/12/cao/activityDescription",
+        "object": "This course is for monitoring python programming practicals for level 1 student"
+    },
+    {
+        "subject": "secourse-511f491d-ea2b-428f-900e-604ea778dab5",
+        "predicate": "http://sonfack.com/2023/12/cao/hasEndTime",
+        "object": "12AM-6ec5a9a1-54b9-4310-96f4-9ecbdbf8344f"
+    },
+    {
+        "subject": "isResponsibleFor",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "responsibility"
+    },
+    {
+        "subject": "objective-0b6e8fa9-d03d-4636-ab9c-b34578b4ea45",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "PM course objective"
+    },
+    {
+        "subject": "dbtutorial-78aca3f8-53fd-4f47-9406-414b493efe19",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "DataBase Tutorial"
+    },
+    {
+        "subject": "Software",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "DigitalResource"
+    },
+    {
+        "subject": "lecturing-5923c0c5-fe15-4cf9-8dc1-e3f5e73ba02a",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://sonfack.com/2023/12/cao/Action"
+    },
+    {
+        "subject": "TopManagement",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "Management"
+    },
+    {
+        "subject": "setutorial-adbef907-11e0-40c1-8dd2-37eb02899ea9",
+        "predicate": "http://sonfack.com/2023/12/cao/isBeneficialTo",
+        "object": "bsc-410688e8-e5d3-4e9c-9ca4-c28bf92827af"
+    },
+    {
+        "subject": "Management",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "lecturing-9246b9e2-d557-4869-885a-c541257280eb",
+        "predicate": "http://sonfack.com/2023/12/cao/isCarriedOutBy",
+        "object": "teacher-09c4175e-f119-4d66-ac53-920a5c9dc796"
+    },
+    {
+        "subject": "classroom-9b1749fc-8ce7-42ce-89d6-4e7ff8b826c7",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "CR003"
+    },
+    {
+        "subject": "ClassRoom",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#lable",
+        "object": "Classroom Location"
+    },
+    {
+        "subject": "pycourse-3f993bf5-1c2f-4f58-b85a-7b6b92bcf64b",
+        "predicate": "http://sonfack.com/2023/12/cao/isBeneficialTo",
+        "object": "bsc-09c739e7-2a77-4b4c-9197-cdba96c340dd"
+    },
+    {
+        "subject": "pypractical-f18f0361-3f12-4b3d-9459-ce2a019b4668",
+        "predicate": "http://sonfack.com/2023/12/cao/hasObjective",
+        "object": "objective-969f073e-1e01-4ad0-a0f0-fb806ba5a50e"
+    },
+    {
+        "subject": "10AM-ee0a6d0b-38a2-4203-b06b-6e551cf6e8a7",
+        "predicate": "https://w3id.org/MON/time.owl#inXSDDateTime",
+        "object": "2002-05-09T10:00:00"
+    },
+    {
+        "subject": "achieves",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#domain",
+        "object": "http://sonfack.com/2023/12/cao/Subject"
+    },
+    {
+        "subject": "projector-6579cf57-4d1d-498d-bd51-bbc0caa7105b",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Panasonic LCD Projector"
+    },
+    {
+        "subject": "setutorial-adbef907-11e0-40c1-8dd2-37eb02899ea9",
+        "predicate": "http://sonfack.com/2023/12/cao/hasDuration",
+        "object": "120"
+    },
+    {
+        "subject": "PracticalRoom",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#lable",
+        "object": "Practicalroom Location"
+    },
+    {
+        "subject": "TeachingMaterial",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "http://sonfack.com/2023/12/cao/HardResource"
+    },
+    {
+        "subject": "book-236fb61b-0908-4892-9ded-974bdbf1c653",
+        "predicate": "isUsedFor",
+        "object": "secourse-511f491d-ea2b-428f-900e-604ea778dab5"
+    },
+    {
+        "subject": "lecturer-1c787fcc-3ef9-43c6-bfa3-f05823b50645",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "Teacher"
+    },
+    {
+        "subject": "digital-9840998a-2a10-46c4-a1d8-b7262bb88c76",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "SoftDocument"
+    },
+    {
+        "subject": "computerroom-4ecbe47c-8f8e-4835-93ac-16d2392e30a2",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "PR001"
+    },
+    {
+        "subject": "isFollowedBy",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#ObjectProperty"
+    },
+    {
+        "subject": "achieves",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "achieves"
+    },
+    {
+        "subject": "10AM-12AM-f4e589a5-aac9-42b7-b498-706732141ca1",
+        "predicate": "https://w3id.org/MON/time.owl#hasEnd",
+        "object": "12AM-6ec5a9a1-54b9-4310-96f4-9ecbdbf8344f"
+    },
+    {
+        "subject": "seproject-d3e90a3c-f550-45eb-b00e-59a3c6120318",
+        "predicate": "http://sonfack.com/2023/12/cao/hasLocation",
+        "object": "computerroom-5a2454c8-c664-401c-86b7-425e75dddc39"
+    },
+    {
+        "subject": "computerroom-4ecbe47c-8f8e-4835-93ac-16d2392e30a2",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "PracticalRoom"
+    },
+    {
+        "subject": "PracticalRoom",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "Building"
+    },
+    {
+        "subject": "book-b2806065-7423-429f-bddd-b2208121325f",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "HardDocument"
+    },
+    {
+        "subject": "secourse-511f491d-ea2b-428f-900e-604ea778dab5",
+        "predicate": "http://sonfack.com/2023/12/cao/hasSubject",
+        "object": "teacher-b4e46cbe-e682-4132-a2d7-ca92e404c216"
+    },
+    {
+        "subject": "08AM-10AM-35e7d9ed-4694-48e0-a6b6-394bd4155a13",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "https://w3id.org/MON/time.owl#Interval"
+    },
+    {
+        "subject": "pycourse-3f993bf5-1c2f-4f58-b85a-7b6b92bcf64b",
+        "predicate": "http://sonfack.com/2023/12/cao/hasSubject",
+        "object": "teacher-45b1d68b-d33c-4eaf-93af-7c44f8ef3fa8"
+    },
+    {
+        "subject": "lecturing-9246b9e2-d557-4869-885a-c541257280eb",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://sonfack.com/2023/12/cao/Action"
+    },
+    {
+        "subject": "supervisor-1339002e-3ef1-4e12-8eec-8feff0a82a67",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "Teacher"
+    },
+    {
+        "subject": "pypractical-f18f0361-3f12-4b3d-9459-ce2a019b4668",
+        "predicate": "http://sonfack.com/2023/12/cao/isBeneficialTo",
+        "object": "bsc-09c739e7-2a77-4b4c-9197-cdba96c340dd"
+    },
+    {
+        "subject": "Communication",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "AdministrativeStaff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Administrator subject community"
+    },
+    {
+        "subject": "8AM-7cc55976-df08-47d5-a37f-cfc9b7c04f85",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "https://w3id.org/MON/time.owl#Instant"
+    },
+    {
+        "subject": "laptop-a0268cf3-8b2b-4f83-a467-eefe3a392639",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Dell laptop"
+    },
+    {
+        "subject": "supervision-b45158d0-f812-4ee9-976b-809df57824f2",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Software Engineering project"
+    },
+    {
+        "subject": "Teacher",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Teaching role "
+    },
+    {
+        "subject": "isUsedFor",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#range",
+        "object": "http://sonfack.com/2023/12/cao/Activity"
+    },
+    {
+        "subject": "objective-969f073e-1e01-4ad0-a0f0-fb806ba5a50e",
+        "predicate": "http://sonfack.com/2023/12/cao/objectDescription",
+        "object": "This course is intended to introduce Python programming to level 01 students"
+    },
+    {
+        "subject": "AdministrativeStaff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "Community"
+    },
+    {
+        "subject": "digital-f76fbf2e-b9a1-46ec-b446-b76389636810",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Microsoft excel course"
+    },
+    {
+        "subject": "computerroom-5a2454c8-c664-401c-86b7-425e75dddc39",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "PR002"
+    },
+    {
+        "subject": "book-9d0de03c-dcc8-4a6c-8dd3-3b921cba2d1b",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Computer hardware"
+    },
+    {
+        "subject": "teacher-270696cb-b304-42d7-91d9-694e5e8c0a7b",
+        "predicate": "hasRole",
+        "object": "lecturer-13aa62db-f676-48d5-97dd-8e81b5c70667"
+    },
+    {
+        "subject": "pypractical-f18f0361-3f12-4b3d-9459-ce2a019b4668",
+        "predicate": "http://sonfack.com/2023/12/cao/hasRule",
+        "object": "rule-cdc19603-45e5-4c06-8d5a-47624147f67e"
+    },
+    {
+        "subject": "book-0626b11e-a0d8-4eab-9485-4d42a51e8581",
+        "predicate": "isUsedFor",
+        "object": "uicourse-eaf2d283-4eb8-4024-a2c5-539984984fdd"
+    },
+    {
+        "subject": "objective-ddd7e420-9347-4a53-8f06-d30d3efd8398",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "teachingObject"
+    },
+    {
+        "subject": "Projector",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Projector"
+    },
+    {
+        "subject": "dbcourse-b63a9944-19f6-4f41-bcbd-9333ede86272",
+        "predicate": "http://sonfack.com/2023/12/cao/hasTime",
+        "object": "8AM-10AM-1470781d-1128-4f43-ab61-4088953f071a"
+    },
+    {
+        "subject": "lecturing-14868c21-cca2-436b-9ccc-23c411ab22ca",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Software Engineering lecture"
+    },
+    {
+        "subject": "itunithead-d89141ba-4b2d-41e4-b1a5-65bc2d409817",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "IT unit head"
+    },
+    {
+        "subject": "10AM-ee0a6d0b-38a2-4203-b06b-6e551cf6e8a7",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "https://w3id.org/MON/time.owl#Instant"
+    },
+    {
+        "subject": "8AM-10AM-b139b467-7fbf-4298-9338-fa372b608e5e",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "https://w3id.org/MON/time.owl#Interval"
+    },
+    {
+        "subject": "hasRole",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#domain",
+        "object": "http://sonfack.com/2023/12/cao/Subject"
+    },
+    {
+        "subject": "Role",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "Moral",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "http://sonfack.com/2023/12/cao/Subject"
+    },
+    {
+        "subject": "objective-59c2099d-746e-4872-bbc1-ea0891430f47",
+        "predicate": "http://sonfack.com/2023/12/cao/objectDescription",
+        "object": "This database tutorial sessions is intended to support level 01 student on database questions"
+    },
+    {
+        "subject": "pycourse-3f993bf5-1c2f-4f58-b85a-7b6b92bcf64b",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "CSC 1001"
+    },
+    {
+        "subject": "dbcourse-b63a9944-19f6-4f41-bcbd-9333ede86272",
+        "predicate": "http://sonfack.com/2023/12/cao/isCarriedOutWith",
+        "object": "digital-9840998a-2a10-46c4-a1d8-b7262bb88c76"
+    },
+    {
+        "subject": "Electronic",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "dbcourse-b63a9944-19f6-4f41-bcbd-9333ede86272",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://sonfack.com/2023/12/cao/Activity"
+    },
+    {
+        "subject": "objective-284ef78c-99f5-45f0-935a-553678664616",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Software engineering project objective"
+    },
+    {
+        "subject": "isFoundIn",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "A location is found in another location"
+    },
+    {
+        "subject": "10AM-0fbdca75-5c06-4a88-9181-ee1a035a7fec",
+        "predicate": "https://w3id.org/MON/time.owl#inXSDDateTime",
+        "object": "2002-05-06T10:00:00"
+    },
+    {
+        "subject": "Laptop",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "8AM-10AM-1470781d-1128-4f43-ab61-4088953f071a",
+        "predicate": "https://w3id.org/MON/time.owl#hasEnd",
+        "object": "10AM-0fbdca75-5c06-4a88-9181-ee1a035a7fec"
+    },
+    {
+        "subject": "Role",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "The role of a suject in an organization "
+    },
+    {
+        "subject": "Operator",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "Role"
+    },
+    {
+        "subject": "dbtutorial-78aca3f8-53fd-4f47-9406-414b493efe19",
+        "predicate": "http://sonfack.com/2023/12/cao/isCarriedOutWith",
+        "object": "book-b4d784d0-8be6-473f-a4cc-3c5ff8a80b6d"
+    },
+    {
+        "subject": "book-acca8da0-a675-4e21-bbae-ff60772105d0",
+        "predicate": "isUsedFor",
+        "object": "pycourse-3f993bf5-1c2f-4f58-b85a-7b6b92bcf64b"
+    },
+    {
+        "subject": "Laptop",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "Computer"
+    },
+    {
+        "subject": "seproject-d3e90a3c-f550-45eb-b00e-59a3c6120318",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://sonfack.com/2023/12/cao/Activity"
+    },
+    {
+        "subject": "uicourse-eaf2d283-4eb8-4024-a2c5-539984984fdd",
+        "predicate": "http://sonfack.com/2023/12/cao/isCarriedOutWith",
+        "object": "digital-2d8642f5-f270-4d47-9d3c-8132f4fa2668"
+    },
+    {
+        "subject": "objective-969f073e-1e01-4ad0-a0f0-fb806ba5a50e",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Python course objective"
+    },
+    {
+        "subject": "digital-b611ffdb-144f-4858-8519-9d6feec9f928",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "HTML Presentation"
+    },
+    {
+        "subject": "Students",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Students subject community"
+    },
+    {
+        "subject": "lecturing-5923c0c5-fe15-4cf9-8dc1-e3f5e73ba02a",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "User Interface designing lecture"
+    },
+    {
+        "subject": "Tutor",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "setutorial-adbef907-11e0-40c1-8dd2-37eb02899ea9",
+        "predicate": "http://sonfack.com/2023/12/cao/hasLocation",
+        "object": "tutorialroom-351e99f6-c93b-4377-b987-511652d2eefe"
+    },
+    {
+        "subject": "lecturer-a5bed203-9120-4d40-b108-6df44a78d3a2",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "Teacher"
+    },
+    {
+        "subject": "Computer",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "dbcourse-b63a9944-19f6-4f41-bcbd-9333ede86272",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "CSC 1002"
+    },
+    {
+        "subject": "seproject-d3e90a3c-f550-45eb-b00e-59a3c6120318",
+        "predicate": "http://sonfack.com/2023/12/cao/hasSubject",
+        "object": "teacher-a90e1d36-c79f-47f1-a2b5-c805266e2bcc"
+    },
+    {
+        "subject": "Building",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "12AM-6ec5a9a1-54b9-4310-96f4-9ecbdbf8344f",
+        "predicate": "https://w3id.org/MON/time.owl#inXSDDateTime",
+        "object": "2002-05-06T12:00:00"
+    },
+    {
+        "subject": "secourse-511f491d-ea2b-428f-900e-604ea778dab5",
+        "predicate": "http://sonfack.com/2023/12/cao/isBeneficialTo",
+        "object": "bsc-410688e8-e5d3-4e9c-9ca4-c28bf92827af"
+    },
+    {
+        "subject": "ClassRoom",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "TutorialRoom",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "dbcourse-b63a9944-19f6-4f41-bcbd-9333ede86272",
+        "predicate": "http://sonfack.com/2023/12/cao/isCarriedOutWith",
+        "object": "book-b4d784d0-8be6-473f-a4cc-3c5ff8a80b6d"
+    },
+    {
+        "subject": "lecturer-9cc8c82a-a80e-4edc-a50d-771413af9ee0",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "Teacher"
+    },
+    {
+        "subject": "director-bf3b0ecc-3e6e-4d7b-9cb1-ec05ba5be398",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "TopManagement"
+    },
+    {
+        "subject": "teacher-9e1c2630-6a90-43b3-bcd8-639079d43f4a",
+        "predicate": "http://sonfack.com/2023/12/cao/isSubjectOf",
+        "object": "pypractical-f18f0361-3f12-4b3d-9459-ce2a019b4668"
+    },
+    {
+        "subject": "objective-ddd7e420-9347-4a53-8f06-d30d3efd8398",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "DB course objective"
+    },
+    {
+        "subject": "computerroom-9cd6c49c-e52f-48ef-9d23-d868af4802c4",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "PR003"
+    },
+    {
+        "subject": "TeachingStaff",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Teachers subject community"
+    },
+    {
+        "subject": "achieves",
+        "predicate": "http://www.w3.org/2002/07/owl#inverseOf",
+        "object": "http://sonfack.com/2023/12/cao/isCarriedOutBy"
+    },
+    {
+        "subject": "achieves",
+        "predicate": "http://www.w3.org/2002/07/owl#propertyChainAxiom",
+        "object": "n927d784dca9b43d1aa4b6f0e710d6c06b1"
+    },
+    {
+        "subject": "dbtutorial-78aca3f8-53fd-4f47-9406-414b493efe19",
+        "predicate": "http://sonfack.com/2023/12/cao/hasBeginTime",
+        "object": "10AM-f5ee7bc0-fb61-4d4e-9a32-565a5a7df03a"
+    },
+    {
+        "subject": "lecturing-9246b9e2-d557-4869-885a-c541257280eb",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "Database lecture"
+    },
+    {
+        "subject": "supervisor-accb038e-58dd-4967-9ab1-2648fcdc5e5e",
+        "predicate": "http://sonfack.com/2023/12/cao/hasName",
+        "object": "SE project supervisor"
+    },
+    {
+        "subject": "practical-4f989887-eb53-431f-b188-c9662a042f51",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "Teacher"
+    },
+    {
+        "subject": "secourse-511f491d-ea2b-428f-900e-604ea778dab5",
+        "predicate": "http://sonfack.com/2023/12/cao/isCarriedOutWith",
+        "object": "digital-ab422ef5-9bd5-451f-8ab7-9274ffdf5739"
+    },
+    {
+        "subject": "Building",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#lable",
+        "object": "Building Location"
+    },
+    {
+        "subject": "pmcourse-adee0f07-9e90-412b-95d4-b45d7a7476bb",
+        "predicate": "http://sonfack.com/2023/12/cao/hasTime",
+        "object": "8AM-10AM-b139b467-7fbf-4298-9338-fa372b608e5e"
+    },
+    {
+        "subject": "Students",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "12AM-1461e790-cd81-4f7b-96dc-3a2431e32eb0",
+        "predicate": "https://w3id.org/MON/time.owl#inXSDDateTime",
+        "object": "2002-05-08T12:00:00"
+    },
+    {
+        "subject": "pycourse-3f993bf5-1c2f-4f58-b85a-7b6b92bcf64b",
+        "predicate": "http://sonfack.com/2023/12/cao/hasTime",
+        "object": "8AM-10AM-0ea7a574-e6be-4dc7-abe1-85a6b8ce2e3d"
+    },
+    {
+        "subject": "pypractical-f18f0361-3f12-4b3d-9459-ce2a019b4668",
+        "predicate": "http://sonfack.com/2023/12/cao/isComposedOf",
+        "object": "practical-fa779b89-5ec8-48f1-b5c3-bda3968382ca"
+    },
+    {
+        "subject": "TeachingMaterial",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "Physical",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Physical subject of an activity"
+    },
+    {
+        "subject": "seproject-d3e90a3c-f550-45eb-b00e-59a3c6120318",
+        "predicate": "http://sonfack.com/2023/12/cao/isBeneficialTo",
+        "object": "bsc-410688e8-e5d3-4e9c-9ca4-c28bf92827af"
+    },
+    {
+        "subject": "supervisor-accb038e-58dd-4967-9ab1-2648fcdc5e5e",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "Teacher"
+    },
+    {
+        "subject": "objective-9a59e20a-60f0-4798-8895-50f6b79621c5",
+        "predicate": "http://sonfack.com/2023/12/cao/objectDescription",
+        "object": "This course is intended to introduce Web interface programming to level 02 students. It will enables them to designer and display elements such as text, images, forms and interactive functions in a web browser"
+    },
+    {
+        "subject": "lecturer-c83b7873-f908-484d-a044-2802814f87d1",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "Teacher"
+    },
+    {
+        "subject": "DigitalResource",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Class"
+    },
+    {
+        "subject": "pmcourse-adee0f07-9e90-412b-95d4-b45d7a7476bb",
+        "predicate": "http://sonfack.com/2023/12/cao/hasLocation",
+        "object": "classroom-3414ff41-3e7a-44de-a679-baac1ab873c2"
+    },
+    {
+        "subject": "Community",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "Moral"
+    },
+    {
+        "subject": "teachingObject",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#subClassOf",
+        "object": "http://sonfack.com/2023/12/cao/Object"
+    },
+    {
+        "subject": "uicourse-eaf2d283-4eb8-4024-a2c5-539984984fdd",
+        "predicate": "http://sonfack.com/2023/12/cao/hasTime",
+        "object": "10AM-12AM-6ab82d7d-72dc-40f2-a209-8bc6b4bb04e7"
+    },
+    {
+        "subject": "8AM-a1285744-ddb3-4875-8e77-ed1a7033ccd2",
+        "predicate": "https://w3id.org/MON/time.owl#inXSDDateTime",
+        "object": "2002-05-10T08:00:00"
+    },
+    {
+        "subject": "n927d784dca9b43d1aa4b6f0e710d6c06b2",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#rest",
+        "object": "http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"
+    },
+    {
+        "subject": "HardDocument",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Hard Document"
+    },
+    {
+        "subject": "setutorial-adbef907-11e0-40c1-8dd2-37eb02899ea9",
+        "predicate": "http://sonfack.com/2023/12/cao/hasSubject",
+        "object": "teacher-f6f76647-ad40-4a4e-93c0-6840ccec87d3"
+    },
+    {
+        "subject": "lecturing-14868c21-cca2-436b-9ccc-23c411ab22ca",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://sonfack.com/2023/12/cao/Action"
+    },
+    {
+        "subject": "teacher-45b1d68b-d33c-4eaf-93af-7c44f8ef3fa8",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "Human"
+    },
+    {
+        "subject": "tutorialObject",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "tutorial objective"
+    },
+    {
+        "subject": "seproject-d3e90a3c-f550-45eb-b00e-59a3c6120318",
+        "predicate": "http://sonfack.com/2023/12/cao/hasTime",
+        "object": "08AM-10AM-35e7d9ed-4694-48e0-a6b6-394bd4155a13"
+    },
+    {
+        "subject": "isFoundIn",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#range",
+        "object": "http://sonfack.com/2023/12/cao/Location"
+    },
+    {
+        "subject": "uicourse-eaf2d283-4eb8-4024-a2c5-539984984fdd",
+        "predicate": "http://sonfack.com/2023/12/cao/activityDescription",
+        "object": "This course introduces the user interface design principles to level 1 student"
+    },
+    {
+        "subject": "pycourse-3f993bf5-1c2f-4f58-b85a-7b6b92bcf64b",
+        "predicate": "http://sonfack.com/2023/12/cao/isCarriedOutWith",
+        "object": "laptop-bf775e20-71f6-4587-a518-2c0e73fa7470"
+    }
+]
