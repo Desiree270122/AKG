@@ -2,7 +2,7 @@
 # AKG
 
 
-Voici une description pour ton dépôt GitHub :
+
 
 ---
 
