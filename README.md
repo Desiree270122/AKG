@@ -1,4 +1,4 @@
-﻿# Détection-de-communaut-
+﻿# Détection-de-communauté
 # AKG
 
 
